@@ -1,0 +1,4482 @@
+{
+  "AI & Machine Learning": [
+    {
+      "title": "007 Evaluations for Your Customer Assistant LLM Agent: No Time for Hallucinations",
+      "code": "DLIT71470"
+    },
+    {
+      "title": "3D BiCycle GANs Meet LLMs: Multimodal Structure-Based Ligand Design",
+      "code": "P73548"
+    },
+    {
+      "title": "A Journey to Improved LLM Serving Performance",
+      "code": "S72029"
+    },
+    {
+      "title": "A Multimodal Large Language Model to Bridge Natural Language and Protein Sequences for Protein Engineering",
+      "code": "P73522"
+    },
+    {
+      "title": "A New Path to Embodied AI",
+      "code": "S72594"
+    },
+    {
+      "title": "A Novel Antibody Design Platform Using Active Learning and Model-Based Reinforcement Learning",
+      "code": "P72658"
+    },
+    {
+      "title": "A Scalable Approach Toward Trustworthy AI",
+      "code": "S71986"
+    },
+    {
+      "title": "A Technical Deep Dive on the Joint Gen AI Platform VMware Private AI Foundation With NVIDIA (Presented by VMware by Broadcom)",
+      "code": "S74478"
+    },
+    {
+      "title": "AI Accelerated Design: From Data Centers to Molecules (Presented by Cadence)",
+      "code": "EXS74463"
+    },
+    {
+      "title": "AI Agent-in-a-Box: Design and Deploy Robust Edge AI Applications (Presented by Inventec)",
+      "code": "EXS74308"
+    },
+    {
+      "title": "AI Agents and Digital Humans Shaping the Future of Interaction in Telecoms",
+      "code": "S72988"
+    },
+    {
+      "title": "AI Agents for Real-Time Video Understanding and Summarization",
+      "code": "S72784"
+    },
+    {
+      "title": "AI Agents for Real-Time Video Understanding and Summarization: Q&A From the EMEA Region",
+      "code": "S72784a"
+    },
+    {
+      "title": "AI Agents in Production: Insights and Future Directions",
+      "code": "S72884"
+    },
+    {
+      "title": "AI Agents on the Road: Revolutionizing In-Vehicle Intelligence with NVIDIA NIM and RAG",
+      "code": "S71213"
+    },
+    {
+      "title": "AI Agents: Shaping the Future of Cybersecurity",
+      "code": "S72441"
+    },
+    {
+      "title": "AI Agents: Shaping the Future of Cybersecurity: Q&A From the EMEA Region",
+      "code": "S72441a"
+    },
+    {
+      "title": "AI Content Creation: Steps Toward Applications in The Field (Presented by SoftServe)",
+      "code": "S73075"
+    },
+    {
+      "title": "AI Day Startup and VC Networking Hour",
+      "code": "SE71164"
+    },
+    {
+      "title": "AI Developer Tools for Accelerated Computing \u2014 Scarce Data Isn't Scary!",
+      "code": "S72867"
+    },
+    {
+      "title": "AI Economics: How Cyndx Kept 3B Requests in Budget (Presented by Cloudflare)",
+      "code": "S74299"
+    },
+    {
+      "title": "AI Inference Infrastructure: From Parameters to Production (Presented by Baseten)",
+      "code": "S74245"
+    },
+    {
+      "title": "AI Innovations Driving Economic Growth",
+      "code": "S73782"
+    },
+    {
+      "title": "AI Meets Healthcare and Life Sciences: A VC Perspective on Innovation and Challenges",
+      "code": "DD73692"
+    },
+    {
+      "title": "AI Promise to Profits: Maximize Business ROI with Accelerated Computing  (Presented by IBM)",
+      "code": "S74483"
+    },
+    {
+      "title": "AI Research Careers: From Research to Reality",
+      "code": "S73849"
+    },
+    {
+      "title": "AI Safety for Ecommerce in Emerging Markets",
+      "code": "S72559"
+    },
+    {
+      "title": "AI Training Fault Self-Healing (Presented by RunSun)",
+      "code": "S74189"
+    },
+    {
+      "title": "AI Unleashed: Physical AI Meets Agentic AI (Presented by LTIMindtree)",
+      "code": "S74065"
+    },
+    {
+      "title": "AI Unlocked: Foundations for a Secure Innovation Era (Presented by Trend Micro)",
+      "code": "S74455"
+    },
+    {
+      "title": "AI and AFM-Assisted Structure Prediction of Protein Complexes",
+      "code": "P74391"
+    },
+    {
+      "title": "AI as a Disruptive Technology in Semiconductor Manufacturing: A Deep Learning Framework for Advanced Node Metrology and Defect Inspection",
+      "code": "P74402"
+    },
+    {
+      "title": "AI at Scale: Lessons from Capital One\u2019s Agentic AI Adoption",
+      "code": "S72858"
+    },
+    {
+      "title": "AI for Safe and Efficient Trading in Electronic Markets",
+      "code": "S72692"
+    },
+    {
+      "title": "AI in Action: Improving Customer Service Across Industries With Agentic AI",
+      "code": "S73054"
+    },
+    {
+      "title": "AI in Action: Optimize Your AI Infrastructure (Presented by Google Cloud)",
+      "code": "S74315"
+    },
+    {
+      "title": "AI to ROI with CDW and NVIDIA (Presented by CDW)",
+      "code": "EXS74325"
+    },
+    {
+      "title": "AI \u5982\u4f55\u52a0\u901f\u8d4b\u80fd\u6c7d\u8f66\u5de5\u4e1a\u8bbe\u8ba1 How AI is Revolutionizing Automotive Industrial Design",
+      "code": "S71562"
+    },
+    {
+      "title": "AI's Next Frontier: Taking Autonomy from Digital to Physical Reality",
+      "code": "S73038"
+    },
+    {
+      "title": "AI-Accelerated Design: From Data Centers to Molecules (Presented by Cadence)",
+      "code": "S74469"
+    },
+    {
+      "title": "AI-Driven Code Evolution: Unlocking Next-Level Performance",
+      "code": "S72816"
+    },
+    {
+      "title": "AI-Driven Network Diagnostics: Revolutionizing Telecom Troubleshooting (Presented by Tech Mahindra)",
+      "code": "S74420"
+    },
+    {
+      "title": "AI-Driven Safety at the Edge: Minimize Industrial Incidents",
+      "code": "S71452"
+    },
+    {
+      "title": "AI-Powered Art: The Influence of Robots on Creative Expression",
+      "code": "S71191"
+    },
+    {
+      "title": "AI-RAN in Action",
+      "code": "S72987"
+    },
+    {
+      "title": "AIRSPEED: \u7528\u4e8e\u5177\u8eab\u667a\u80fd\u7684\u5f00\u6e90\u901a\u7528\u6570\u636e\u751f\u4ea7\u5e73\u53f0",
+      "code": "S74390"
+    },
+    {
+      "title": "AI\u2019s toughest tasks: Lessons from Scaling Enterprise AI from Edge to Exascale (Presented by HPE)",
+      "code": "S74331"
+    },
+    {
+      "title": "AI\u202f\u521b\u4e1a\u4f01\u4e1a\u5728\u4e2d\u56fd\u7684\u53d1\u5c55\u4e0e\u52a9\u529b",
+      "code": "S73846"
+    },
+    {
+      "title": "AVC Bot: A Text2SQL Chatbot for Supply Chain Data With Near-Perfect Accuracy",
+      "code": "P73580"
+    },
+    {
+      "title": "Accelerate AI Innovation With NVIDIA and Azure AI Foundry (Presented by Microsoft)",
+      "code": "S74611"
+    },
+    {
+      "title": "Accelerate AI Innovation with Cloudera\u2019s AI Studios (Presented by Cloudera)",
+      "code": "EXS74287"
+    },
+    {
+      "title": "Accelerate AI Results for Your Business: Leverage the WWT AI Proving Ground (Presented by World Wide Technology)",
+      "code": "S74028"
+    },
+    {
+      "title": "Accelerate AI development with flexible GPU cloud solutions (Presented by IREN)",
+      "code": "EXS74411"
+    },
+    {
+      "title": "Accelerate AI: Enhance Performance and Efficiency Using Google Cloud (Presented by Google Cloud)",
+      "code": "S74313"
+    },
+    {
+      "title": "Accelerate Cancer Research With AI-Driven Multimodal Data Integration",
+      "code": "P74176"
+    },
+    {
+      "title": "Accelerate Data Science and Leverage Foundation Models in Digital Biology",
+      "code": "DLIT71306"
+    },
+    {
+      "title": "Accelerate Enterprise AI With NVIDIA Blueprints (Presented by World Wide Technology)",
+      "code": "EXS74202"
+    },
+    {
+      "title": "Accelerate FHE-Based DNN Secure Inference With GPU",
+      "code": "P74396"
+    },
+    {
+      "title": "Accelerate Inference on NVIDIA GPUs",
+      "code": "S72330"
+    },
+    {
+      "title": "Accelerate Large Language Model Training with Hybrid GPU-Based Compression",
+      "code": "P73587"
+    },
+    {
+      "title": "Accelerate Large-Scale AI Training Pipelines: Solve Checkpointing Challenges for LLMs and Multi-Modal Models (Presented by DDN)",
+      "code": "S74360"
+    },
+    {
+      "title": "Accelerate Reservoir Modeling for the Energy Transition With Physics-Informed AI Techniques",
+      "code": "S73019"
+    },
+    {
+      "title": "Accelerate Super Long-Context LLM Inference",
+      "code": "S72568"
+    },
+    {
+      "title": "Accelerate and Scale Your AI Deployment Through Automated Infrastructure Selection and Management",
+      "code": "P74458"
+    },
+    {
+      "title": "Accelerating AI Adoption with AI Factories",
+      "code": "S71405"
+    },
+    {
+      "title": "Accelerating AI Pipelines: Boosting Visual Search Efficiency",
+      "code": "S71676"
+    },
+    {
+      "title": "Accelerating AI and HPC with an Adaptive Converged Platform (Presented by QCT)",
+      "code": "S74062"
+    },
+    {
+      "title": "Accelerating AI with Purpose-Built Cloud Infrastructure (Presented by Together AI)",
+      "code": "EXS74255"
+    },
+    {
+      "title": "Accelerating Advanced Materials Discovery With Generative AI: Tutorial and Case Studies",
+      "code": "S72651"
+    },
+    {
+      "title": "Accelerating Business Insights with RAG AI and Modern Data Platforms",
+      "code": "S71888"
+    },
+    {
+      "title": "Accelerating Enterprises\u2019 GenAI Innovation (Presented by QCT)",
+      "code": "S74054"
+    },
+    {
+      "title": "Accelerating Industry AI Workloads with NVIDIA NIM and Oracle Cloud Infrastructure (Presented by Oracle)",
+      "code": "S74281"
+    },
+    {
+      "title": "Accelerating LLM Applications: Enhancing Performance With NVIDIA NIM",
+      "code": "P72964"
+    },
+    {
+      "title": "Accelerating Physics Using Quantum Computing and Synergies With Machine Learning (Presented by Ansys)",
+      "code": "EXS74415"
+    },
+    {
+      "title": "Accelerating Sovereign AI Factories: Insights from Telco Case Studies",
+      "code": "S73439"
+    },
+    {
+      "title": "Achieve Scale: Accelerate AI Adoption for Business Impact (Presented by Accenture)",
+      "code": "S73055"
+    },
+    {
+      "title": "Advanced LLM App Evaluation: Building Real-Time Guardrails for Real-World LLM Risk Mitigation",
+      "code": "S71692"
+    },
+    {
+      "title": "Advanced Medical AI Development with MONAI: From Interactive Annotation to Foundation Models",
+      "code": "DLIT71265"
+    },
+    {
+      "title": "Advanced RAG Pipelines: Engineer Scalable Retrieval Systems for Enterprise AI",
+      "code": "S73015"
+    },
+    {
+      "title": "Advanced Techniques for Inference Optimization With TensorRT-LLM",
+      "code": "S71693"
+    },
+    {
+      "title": "Advancing AI Reasoning: From Games to Complex Problem Solving",
+      "code": "S73862"
+    },
+    {
+      "title": "Advancing AI Workloads with PCIe Gen6 and New System Architectures (Presented by Micron Technology)",
+      "code": "S74471"
+    },
+    {
+      "title": "Advancing AI in Healthcare: The Power of Holoscan Sensor Bridge and IGX",
+      "code": "EXS75113"
+    },
+    {
+      "title": "Advancing AI to Build the Most-Trusted Driver",
+      "code": "S72844"
+    },
+    {
+      "title": "Advancing Automotive Factory Planning at BMW With AI-Enabled Digital Twins",
+      "code": "S71550"
+    },
+    {
+      "title": "Advancing Health and Improving Patient Outcomes With AI",
+      "code": "S72849"
+    },
+    {
+      "title": "Advancing Molecular Design with Deep Learning",
+      "code": "S72646"
+    },
+    {
+      "title": "Advancing the Frontier of Medical Devices with Physical AI",
+      "code": "S72948"
+    },
+    {
+      "title": "Advancing the In-Car User Experience with Hybrid LLM Architecture",
+      "code": "S72742"
+    },
+    {
+      "title": "Agentic AI at the Edge: Real-Time Sentiment Analysis for Engaging Customer Interaction",
+      "code": "S72239"
+    },
+    {
+      "title": "Agentic AI at the Edge: Real-Time Sentiment Analysis for Engaging Customer Interaction: Q&A From the EMEA Region",
+      "code": "S72239a"
+    },
+    {
+      "title": "Agentic AI for Physical Operations",
+      "code": "S72758"
+    },
+    {
+      "title": "Agentic AI for Physical Operations: Q&A From the EMEA Region",
+      "code": "S72758a"
+    },
+    {
+      "title": "Agentic AI in the Enterprise: Transform Business Operations (Presented by Infosys)",
+      "code": "EXS74456"
+    },
+    {
+      "title": "Agentic Cloud: Using Agents to Build Tomorrow\u2019s Cloud (Presented by DigitalOcean)",
+      "code": "EXS74250"
+    },
+    {
+      "title": "Al-Driven Assistance for Critical Medical Procedures Using Real-Time Machine Learning",
+      "code": "P73462"
+    },
+    {
+      "title": "AlphaBind: A Domain-Specific Model to Predict and Optimize Antibody-Antigen Binding Affinity",
+      "code": "P73510"
+    },
+    {
+      "title": "An AI Team Lead\u2019s Guide: Drive Developer Teams' Excellence",
+      "code": "S73837"
+    },
+    {
+      "title": "An AI-Driven System for Large-Scale Digital Pathology Annotation and Characterization",
+      "code": "P73579"
+    },
+    {
+      "title": "An Enterprise-Ready AI Platform: Unlocking Real-Time Insights at Scale",
+      "code": "S72206"
+    },
+    {
+      "title": "An Introduction to NVIDIA Cosmos World Foundation Models",
+      "code": "S72431"
+    },
+    {
+      "title": "An Introduction to NVIDIA Cosmos for Physical AI",
+      "code": "DLIT74500"
+    },
+    {
+      "title": "Apply Multi-Node Multi-GPU Computing to HPO and Inference",
+      "code": "DLIT71619"
+    },
+    {
+      "title": "Applying AI Weather Models With NVIDIA Earth-2",
+      "code": "DLIT71336"
+    },
+    {
+      "title": "Automate 5G Network Configurations With NVIDIA AI LLM Agents and Kinetica Accelerated Database",
+      "code": "DLIT72350"
+    },
+    {
+      "title": "Automated Curation and Classification of Post-Disaster Imagery Using AI-Assisted Labeling and Ontology for Enhanced Data Insights",
+      "code": "P72682"
+    },
+    {
+      "title": "Automatic 3D Models Editing With Text Prompts and Super Resolution",
+      "code": "P73043"
+    },
+    {
+      "title": "Automatic Large-Scale Synthetic Data Generation for Developing Fully Automated Trains",
+      "code": "S71367"
+    },
+    {
+      "title": "Autonomous Navigation and Inspection Using Multimodal LLM Without Global Maps",
+      "code": "P72933"
+    },
+    {
+      "title": "Avoid an AI Upset With Scalable Infrastructure and Adaptable Cloud (Presented by Applied Digital)",
+      "code": "EXS74207"
+    },
+    {
+      "title": "Benefits of LLM Domain Adaptation Using NeMo Microservices",
+      "code": "P74403"
+    },
+    {
+      "title": "Best Practices and Techniques for Building Agentic and Retrieval Pipelines",
+      "code": "CWE72181"
+    },
+    {
+      "title": "Best Practices for Building an Enterprise RAG App Atop Unstructured Data at Scale (Presented by Cohesity)",
+      "code": "EXS74267"
+    },
+    {
+      "title": "Best Practices to Implement Your AI Strategies in the Enterprise",
+      "code": "S71775"
+    },
+    {
+      "title": "Beyond Genomes: A Global AI Dataset for Biology",
+      "code": "S73257"
+    },
+    {
+      "title": "Beyond Silos: Unlock AI\u2019s Full Potential With Petabit-Scale Data Mobility (Presented by Stelia)",
+      "code": "EXS74582"
+    },
+    {
+      "title": "Beyond the Camera: Revolutionize Content Creation With Advanced Lip-Sync AI",
+      "code": "S71969"
+    },
+    {
+      "title": "BharatGen: A Generative AI Initiative for Inclusive Innovation Using NVAIE",
+      "code": "S72746"
+    },
+    {
+      "title": "Blackwell Numerics for AI",
+      "code": "S72458"
+    },
+    {
+      "title": "Blackwell Programming for the Masses With OpenAI Triton",
+      "code": "S72876"
+    },
+    {
+      "title": "Blueprint for Scalable AI: Deploying RAG Applications With WARRP (Presented by Weka)",
+      "code": "EXS74225"
+    },
+    {
+      "title": "Blueprints for Success: Navigating Multimodal Ingestion for Real-World RAG",
+      "code": "DLIT71592"
+    },
+    {
+      "title": "Break the ExaFLOPS Barrier With Scientific Workflows Using the Megatron Training Framework",
+      "code": "S73707"
+    },
+    {
+      "title": "Bridge the AI Readiness Gap: Unified Data Center Management for Accelerated AI Adoption",
+      "code": "S74592"
+    },
+    {
+      "title": "Bridging AI and HPC with Adaptive Infrastructure: From Inference to Large-Scale Industrial Workflows (Presented by Oracle)",
+      "code": "S74320"
+    },
+    {
+      "title": "Bringing AI to Radar: A Deep Dive Into Neural Networks for Perception",
+      "code": "S71595"
+    },
+    {
+      "title": "Bringing AI to the Operating Room: Edge Computing for Real-Time Surgical Phase Recognition",
+      "code": "P73599"
+    },
+    {
+      "title": "Bringing Enterprise Chatbots to Life With AI-Powered Digital Humans",
+      "code": "S71183"
+    },
+    {
+      "title": "Build AI Agents With Multi-Modal Models",
+      "code": "DLIW73638"
+    },
+    {
+      "title": "Build Advanced AI Clouds With the Data Intelligence Platform (Presented by DDN)",
+      "code": "S74286"
+    },
+    {
+      "title": "Build Agentic AI Applications With Large Language Models",
+      "code": "DLIW73641"
+    },
+    {
+      "title": "Build Generative AI With NVIDIA NeMo",
+      "code": "CWE73358"
+    },
+    {
+      "title": "Build High-Performance and AI-Enabled Sensor Processing Applications",
+      "code": "DLIT71305"
+    },
+    {
+      "title": "Build LLM Applications With Prompt Engineering",
+      "code": "DLIW73631"
+    },
+    {
+      "title": "Build LLM Applications With Prompt Engineering",
+      "code": "DLIW73636"
+    },
+    {
+      "title": "Build Next-Gen Agents With Large Vision Language Models",
+      "code": "DLIT71406"
+    },
+    {
+      "title": "Build Next-Generation AI Factories With DOCA-Accelerated Networking",
+      "code": "S71638"
+    },
+    {
+      "title": "Build Reasoning Models to Achieve Advanced Agentic AI Autonomy",
+      "code": "S74781"
+    },
+    {
+      "title": "Build Safe Enterprise AI With NVIDIA NIM",
+      "code": "S72356"
+    },
+    {
+      "title": "Build Scalable AI Training and Inference Infrastructures for Data Centers: From Design to Deployment (Presented by PNY Technologies)",
+      "code": "S74193"
+    },
+    {
+      "title": "Build Secure Enterprise-Class Agentic Applications by Co-Locating Data and AI (Presented by Couchbase)",
+      "code": "EXS74347"
+    },
+    {
+      "title": "Build Secure and Scalable Gen AI Applications With Databases and NVIDIA AI",
+      "code": "S71521"
+    },
+    {
+      "title": "Build Trust and Reliability in Agentic and Physical AI \u2014 Every Time! (Presented by HPE)",
+      "code": "S74333"
+    },
+    {
+      "title": "Build Trustworthy AI: Guardrailing Gen AI Applications",
+      "code": "CWE73354"
+    },
+    {
+      "title": "Build a Strategic Foundation for Enterprise Gen AI",
+      "code": "S72357"
+    },
+    {
+      "title": "Build a Strategic Foundation for Enterprise Gen AI: Q&A From the EMEA Region",
+      "code": "S72357a"
+    },
+    {
+      "title": "Build a Winning AI Strategy: Insights From Industry Leaders (Presented by CDW)",
+      "code": "S74324"
+    },
+    {
+      "title": "Build an AI Research Assistant With NVIDIA AI Blueprints",
+      "code": "DLIT74486"
+    },
+    {
+      "title": "Build an Adobe Learning Manager Chatbot Using NIM RAG Workflow",
+      "code": "P73555"
+    },
+    {
+      "title": "Build an Ultimate AI Infrastructure to Meet New Challenges of Development (Presented by xFusion Technologies)",
+      "code": "S74270"
+    },
+    {
+      "title": "Build and Deploy High-Quality Generative AI Agent Systems (Presented by Databricks)",
+      "code": "S74440"
+    },
+    {
+      "title": "Build and Manage Customizable LLM Pipelines Using NIM Operator",
+      "code": "S72050"
+    },
+    {
+      "title": "Build and Run Next-Generation AI on Azure\u2019s Proven AI Infrastructure Platform (Presented by Microsoft)",
+      "code": "S74606"
+    },
+    {
+      "title": "Build the Future of AI Infrastructure: From Silicon to Secure Systems at Scale (Presented by Cisco)",
+      "code": "S74617"
+    },
+    {
+      "title": "Build the Next-Generation AI Data Center: From Design to Deployment at Scale (Presented by Hyve Solutions)",
+      "code": "EXS74359"
+    },
+    {
+      "title": "Building Edge and Robotics Applications with Generative AI on NVIDIA Jetson",
+      "code": "CWE72628"
+    },
+    {
+      "title": "Building Enterprise Sovereign AI: The Future of Data Sovereignty and Secure AI Infrastructure \u2014 A Testimonial Journey (Presented by PNY Technologies)",
+      "code": "S74196"
+    },
+    {
+      "title": "Building Future-Ready AI With Agents and Data Flywheels: Insights From NVIDIA\u2019s Enterprise Deployments",
+      "code": "S72338"
+    },
+    {
+      "title": "Building Generative AI for a Billion Indian Voices",
+      "code": "S73151"
+    },
+    {
+      "title": "Building Industrial Digital Twins for the Era of Physical AI",
+      "code": "CWE73271"
+    },
+    {
+      "title": "Building LLM Agent Applications for the Financial Services Industry",
+      "code": "CWE73336"
+    },
+    {
+      "title": "Building LLMs: Accelerating Pretraining of Foundational Models With FP8 Precision",
+      "code": "S71921"
+    },
+    {
+      "title": "Building RAG Agents With LLMs",
+      "code": "DLIW73644"
+    },
+    {
+      "title": "Building Scalable Data Flywheels for Continuously Improving AI Agents",
+      "code": "S73280"
+    },
+    {
+      "title": "Building World Models in the Era of Generative AI",
+      "code": "S73970"
+    },
+    {
+      "title": "Building World Models in the Era of Generative AI: Q&A From the EMEA Region",
+      "code": "S73970a"
+    },
+    {
+      "title": "Building a Scalable Enterprise Multi-Agent Platform for Financial Services",
+      "code": "S72854"
+    },
+    {
+      "title": "Building an In-House Accelerated Computing Platform to Power AI and Data Analytics",
+      "code": "S72977"
+    },
+    {
+      "title": "Bypassing LLM Security and Safety Guardrails",
+      "code": "P73562"
+    },
+    {
+      "title": "Cascaded Fine-Tuning of a Multimodal LLM for Pancreas Diagnostic Support",
+      "code": "P73498"
+    },
+    {
+      "title": "Catalyzing Generative AI From Cloud to Edge (Presented by QCT)",
+      "code": "S74177"
+    },
+    {
+      "title": "Challenges and Breakthroughs in RAG Implementation for On-Prem Industrial Copilot Assistants",
+      "code": "S72896"
+    },
+    {
+      "title": "Choosing Fractional GPU Instances in the Cloud for Graphics or AI Development",
+      "code": "CWE72834"
+    },
+    {
+      "title": "City-Scale AI with Digital Twins",
+      "code": "S71824"
+    },
+    {
+      "title": "Cloud-Native Approach to Achieving Training Resilience and Efficiency at Extreme Scale",
+      "code": "S73410"
+    },
+    {
+      "title": "Cloud-Native Best Practices With NVIDIA AI Enterprise",
+      "code": "CWE73109"
+    },
+    {
+      "title": "Compliance Comparison With Generative AI",
+      "code": "P73021"
+    },
+    {
+      "title": "Comprehensive Guide to Getting AI Agents Into Production (Presented by Databricks)",
+      "code": "S74587"
+    },
+    {
+      "title": "Computing Infrastructure for AI 2.0 (Presented by H3C)",
+      "code": "S74410"
+    },
+    {
+      "title": "Connect With Accelerated Optimization AI Experts",
+      "code": "CWE73299"
+    },
+    {
+      "title": "Connecting Smart Cities to the tourist experience with Agentic AI",
+      "code": "S72394"
+    },
+    {
+      "title": "Correcting Hallucinations in Large Language Models",
+      "code": "P74310"
+    },
+    {
+      "title": "Crack the AI Black Box: Practical Techniques for Explainable AI (Presented by DigitalOcean)",
+      "code": "S74147"
+    },
+    {
+      "title": "Crafting a New Automotive Experience With End-to-End Embodied AI",
+      "code": "S72691"
+    },
+    {
+      "title": "Create and Manage On-Prem AI Clusters With Base Command Manager",
+      "code": "DLIT71603"
+    },
+    {
+      "title": "Creating a Digital Twin of the French Railway: From Point Cloud to Operational Efficiency",
+      "code": "S71822"
+    },
+    {
+      "title": "Curate High-Quality Multimodal Datasets for Generative AI Training with NeMo Curator",
+      "code": "CWE73311"
+    },
+    {
+      "title": "Curvature-Aware Expert Merging for Enhanced Performance in Foundation Models",
+      "code": "P72504"
+    },
+    {
+      "title": "Custom Solutioning with Generative AI: Optimizing Visual Data Sets for Superior Content Creation",
+      "code": "S72835"
+    },
+    {
+      "title": "Customer Service 2.0: Transforming Experiences with AI Agents and Digital Humans",
+      "code": "S73441"
+    },
+    {
+      "title": "Customize Generative AI Models for Industry-Specific Solutions",
+      "code": "CWE73242"
+    },
+    {
+      "title": "Data Expressways: Unlocking the Full Potential of AI With Next-Gen Networking",
+      "code": "S71190"
+    },
+    {
+      "title": "Deep Dive into Small Language Model Development for Various Domains and Applications",
+      "code": "CWE73400"
+    },
+    {
+      "title": "Deep Learning for Options Trading: An End-to-End Approach",
+      "code": "P73468"
+    },
+    {
+      "title": "Defining AI-Native RAN for 6G",
+      "code": "S72985"
+    },
+    {
+      "title": "Dell Pro Max and NVIDIA: Unleashing the Future of AI Development (Presented by Dell Technologies)",
+      "code": "S74220"
+    },
+    {
+      "title": "Delta\u2019s AI-Integrated Robot and D-Bot With NVIDIA Omniverse (Presented by Delta Electronics)",
+      "code": "S73973"
+    },
+    {
+      "title": "Delta\u2019s AI-Integrated Robot and D-Bot With Omniverse (Presented by Delta Electronics)",
+      "code": "S73977"
+    },
+    {
+      "title": "Democratizing AI Model Optimization: A Managed Service Platform for Fine-Tuning Beyond RAG (Presented by SHI International Corp.)",
+      "code": "EXS74116"
+    },
+    {
+      "title": "Democratizing Immersive Experiences With AI",
+      "code": "D7007"
+    },
+    {
+      "title": "Deploying RAG Pipelines for Production at Scale",
+      "code": "DLIW73634"
+    },
+    {
+      "title": "Deploying RAG Pipelines for Production at Scale",
+      "code": "DLIW73643"
+    },
+    {
+      "title": "Designing Transparent AI Systems for Scientific Discovery: Patterns and Practices for Human-AI Collaboration",
+      "code": "S72049"
+    },
+    {
+      "title": "Designing VLM-Based AI Agents for Large-Scale Video Analysis",
+      "code": "S71611"
+    },
+    {
+      "title": "Designing and Simulating Next Generation Data Centers & AI Factories With Cadence and NVIDIA",
+      "code": "S73004"
+    },
+    {
+      "title": "Develop World Foundation Models With NVIDIA Cosmos",
+      "code": "CWE74542"
+    },
+    {
+      "title": "Develop and Deploy Optimized Generative AI Apps in the Cloud",
+      "code": "CWE73361"
+    },
+    {
+      "title": "Develop and Observe Gen AI On-Prem With Z by HP GenAI Lab and AI Studio (Presented by HP)",
+      "code": "S74470"
+    },
+    {
+      "title": "Developing Next-Gen AVs with Physical AI-Powered World Foundation Models",
+      "code": "DD40001"
+    },
+    {
+      "title": "Developing OpenUSD Applications for Controllable Generative AI",
+      "code": "DLIT71319"
+    },
+    {
+      "title": "Developing Solutions for and With BlueField-3: A Network Telemetry for AI Clusters Case Study (Presented by Arista)",
+      "code": "EXS74211"
+    },
+    {
+      "title": "Differentiate Yourself: Go-to-Market for AI Startups",
+      "code": "CWE75130"
+    },
+    {
+      "title": "Diffusion Models: The Swiss Army Knife for Generative AI in Science",
+      "code": "S73269"
+    },
+    {
+      "title": "Diffusion Models: The Swiss Army Knife for Generative AI in Science: Q&A From the EMEA Region",
+      "code": "S73269a"
+    },
+    {
+      "title": "Digital and Physical AI Helps Write a New Chapter in Medicine",
+      "code": "S71353"
+    },
+    {
+      "title": "Digital and Physical AI Helps Write a New Chapter in Medicine: Q&A From the EMEA Region",
+      "code": "S71353a"
+    },
+    {
+      "title": "Discover the Sustainability Promise of AI Data Centers",
+      "code": "S72211"
+    },
+    {
+      "title": "Distributed Agentic Multi-Modal LLM Deployments",
+      "code": "S72654"
+    },
+    {
+      "title": "Domain-Adapted LLM for Offshore Integrity and Reliability",
+      "code": "S73150"
+    },
+    {
+      "title": "Domain-Adaptive Pre-Training: Tailoring LLMs for Specialized Applications",
+      "code": "DLIT71175"
+    },
+    {
+      "title": "Don\u2019t Go It Alone With Gen AI \u2014 Do it Anywhere With Nutanix and NVIDIA (Presented by Nutanix)",
+      "code": "S74251"
+    },
+    {
+      "title": "Draw With AI",
+      "code": "D7005"
+    },
+    {
+      "title": "Driving Smarter Financial Intelligence: The Power of Deeply Trained Domain-Specific Llama Models",
+      "code": "P71458"
+    },
+    {
+      "title": "Driving Telco Innovation: Distilling Large Models Into Economical Small Language Models for Agentic Workflow Automation",
+      "code": "S71545"
+    },
+    {
+      "title": "Dynamo - Generative AI Inference At Scale",
+      "code": "CWE73249"
+    },
+    {
+      "title": "Earn your RAG-ing rights: Learn how to Power Smarter AI with Object Store and NVIDIA NIM Microservices (Presented by MinIO)",
+      "code": "EXS71482"
+    },
+    {
+      "title": "Earth to AI: Engineering a Sustainable Future",
+      "code": "S73451"
+    },
+    {
+      "title": "Effective Drug Discovery By Predicting Bioactivities Using Graph Neural Network And Self- Attention",
+      "code": "P73500"
+    },
+    {
+      "title": "Effective Fundraising Techniques",
+      "code": "DD73695"
+    },
+    {
+      "title": "Effective GPU Utilization with Run:AI",
+      "code": "CWE73253"
+    },
+    {
+      "title": "Efficient Large Language Model Customization",
+      "code": "DLIW73630"
+    },
+    {
+      "title": "Efficient Large Language Model Customization",
+      "code": "DLIW73640"
+    },
+    {
+      "title": "Embeddings are Limiting AI Agents: How Codeium used NVIDIA GPUs at Scale During Inference to Improve Retrieval Current",
+      "code": "S71317"
+    },
+    {
+      "title": "Empower Complex Data Workflows: A Scalable Multi-Agent Solution",
+      "code": "P74404"
+    },
+    {
+      "title": "Empower Next-Generation AI With NVIDIA SuperPOD and Pure Storage AI Solutions (Presented by Pure Storage)",
+      "code": "S74435"
+    },
+    {
+      "title": "Empowering Breakthroughs: Leveraging AI Across Pharma From Discovery to Trials With Innovators",
+      "code": "S73267"
+    },
+    {
+      "title": "Empowering Global Change: United Nations Adopts AI to Further Sustainable Development Across Nations",
+      "code": "S74341"
+    },
+    {
+      "title": "Empowering Global Ecommerce With Generative AI",
+      "code": "S72655"
+    },
+    {
+      "title": "Enable Blackwell Inference With TensorRT Model Optimizer",
+      "code": "S72609"
+    },
+    {
+      "title": "Enable Enterprise AI Adoption by Building Trust in AI Assets and Processes",
+      "code": "S71889"
+    },
+    {
+      "title": "Enable Human Telepresence with Generative AI",
+      "code": "S72755"
+    },
+    {
+      "title": "Enable Intelligent Storage to Process Data for AI Applications",
+      "code": "S71937"
+    },
+    {
+      "title": "Enable Novel Applications in the New AI Area in Medicine: Accelerated Feature Computation for Pathology Slides",
+      "code": "P73532"
+    },
+    {
+      "title": "Enabling Exabyte Scale AI Training and Inference (Presented by Pure Storage)",
+      "code": "S73937"
+    },
+    {
+      "title": "Enhance ASR and TTS Models with LLM for Accessible Mathematical Learning in Students with Disabilities",
+      "code": "P73346"
+    },
+    {
+      "title": "Enhance LLMs With Writing in the Margins (WiM): A Better Inference Pattern for Long-Context Retrieval",
+      "code": "S72323"
+    },
+    {
+      "title": "Enhance Observability for Chatbot Platforms With LLM Tracing and Security-Aware Configuration\u200b",
+      "code": "P73588"
+    },
+    {
+      "title": "Enhance Operational Efficiency in Assembly Line Processes Using Video Analytics AI Agent (Presented by TCS)",
+      "code": "S74614"
+    },
+    {
+      "title": "Enhance Patient Safety With Privacy-Preserving AI: Multimodal DNN and VLM for Event Detection in Healthcare",
+      "code": "P73419"
+    },
+    {
+      "title": "Enhance Real-World Educational Materials With AI: Multimodal Solutions to Empower Educators",
+      "code": "S71997"
+    },
+    {
+      "title": "Enhanced Decision-Making in Disaster Response with Multi-Agent AI",
+      "code": "S72880"
+    },
+    {
+      "title": "Enhancing Domain-Specific Chatbot Evaluation",
+      "code": "P73589"
+    },
+    {
+      "title": "Enhancing Oil & Gas Innovation: High-Fidelity Simulations & AI Surrogates with Accelerated Computing",
+      "code": "S72150"
+    },
+    {
+      "title": "Enhancing Photovoltaic Power Prediction With High-Resolution Weather Forecasting From NVIDIA Earth-2",
+      "code": "S71387"
+    },
+    {
+      "title": "Enhancing Surgical Efficiency With Concurrent On-Edge AI Algorithms",
+      "code": "S71974"
+    },
+    {
+      "title": "Enterprise Gen AI's Next Wave: Unlock Efficiency and Effectiveness in Business specific functions with Agentic AI (Presented by Deloitte)",
+      "code": "S74233"
+    },
+    {
+      "title": "Evaluating RAG and Semantic Search Systems",
+      "code": "DLIT71593"
+    },
+    {
+      "title": "Expert Tips for Optimizing AI Infrastructure (Presented by Penguin Solutions)",
+      "code": "EXS74620"
+    },
+    {
+      "title": "Exploit Inter-Layer Expert Affinity for Mixture-of-Experts Model Inference",
+      "code": "P73569"
+    },
+    {
+      "title": "Exploring Breakthroughs in Healthcare using Generative AI for Radiology Imaging (Presented by AHEAD)",
+      "code": "S74632"
+    },
+    {
+      "title": "FP8 Large-Scale Training: Reach the Speed of Light Without Compromising Quality",
+      "code": "CWE74808"
+    },
+    {
+      "title": "Fast Inference at Scale: Build SLA-Focused AI Stacks for Enterprise-Grade Scale (Presented by Simplismart)",
+      "code": "EXS74490 "
+    },
+    {
+      "title": "Fast and Secure LLM Inference: GPU-Optimized CKKS Homomorphic Encryption",
+      "code": "P73617"
+    },
+    {
+      "title": "Fault-Tolerant Managed Training: Crusoe Cloud\u2019s Blueprint for AI Reliability (Presented by Crusoe.ai)",
+      "code": "S74475"
+    },
+    {
+      "title": "Finance-Specific Embeddings: Achieving Precision in Financial Data Search",
+      "code": "P73504"
+    },
+    {
+      "title": "Find the Bottleneck: Optimize AI Pipelines With Nsight Systems",
+      "code": "DLIT71670"
+    },
+    {
+      "title": "Five Tips to Make You an Above-Average AI Data Storage Expert (Presented by Solidigm)",
+      "code": "EXS74223"
+    },
+    {
+      "title": "Flight Training Reimagined With Mixed Reality",
+      "code": "D7001"
+    },
+    {
+      "title": "Foundation Models in Biology",
+      "code": "S73083"
+    },
+    {
+      "title": "From Clicks to Conversations - Intelligence Data Fusion Fueled by AI Agents",
+      "code": "S71460"
+    },
+    {
+      "title": "From Concept to Reality: Startups Driving AI-Powered Industry Automation",
+      "code": "S72602"
+    },
+    {
+      "title": "From Edge to Cloud: NVIDIA Platforms Accelerate Industrial AI with Comprehensive Solutions (Presented by EDOM Technology)",
+      "code": "EXS74448"
+    },
+    {
+      "title": "From FP8 LLM Training to Inference: Language AI at Scale",
+      "code": "S72799"
+    },
+    {
+      "title": "From Failures to Throughput: Optimize Effective Training in AI Clusters (Presented by CoreWeave)",
+      "code": "S74221"
+    },
+    {
+      "title": "From Guardrails to Agents: Navigating Safety and Security at AI's Frontier",
+      "code": "S73872"
+    },
+    {
+      "title": "From Ideation to Implementation: How to Ensure a Successful Generative AI Project (Presented by SHI International Corp.)",
+      "code": "S74079"
+    },
+    {
+      "title": "From Models to Microservices: Agentic AI at Data Center Scale",
+      "code": "S73211"
+    },
+    {
+      "title": "From NIM to Blackwell: Effectively Drive all of Your Data to all of Your AI Projects (Presented by NetApp)",
+      "code": "EXS74330"
+    },
+    {
+      "title": "From Pawn to Queen: Build Reliable AI Solutions with GMI Cloud (Presented by GMI Cloud)",
+      "code": "S74329"
+    },
+    {
+      "title": "From Petabytes to Performance: How Rivian Scales ADAS Machine Learning and Simulation (Presented by Amazon Web Services)",
+      "code": "S74272"
+    },
+    {
+      "title": "From Project to Profits: Unleash AI's Power With a Hybrid Approach (Presented by IBM)",
+      "code": "S74327"
+    },
+    {
+      "title": "From RAG to Agents: Building Enterprise Products with Generative AI",
+      "code": "S71685"
+    },
+    {
+      "title": "From Reasoning Models to AI Planning Systems",
+      "code": "S72668"
+    },
+    {
+      "title": "From Research to Production: Transforming AV Technology With AI",
+      "code": "S72707"
+    },
+    {
+      "title": "From Zero to Scale: How to Build an Efficient AI Cloud Platform From Scratch (Presented by Nebius)",
+      "code": "S74357"
+    },
+    {
+      "title": "Frontiers of AI and Computing: A Conversation With Yann LeCun and Bill Dally",
+      "code": "S73208"
+    },
+    {
+      "title": "Fundamentals of Agentic AI: A Brief Introduction",
+      "code": "DLIT74813"
+    },
+    {
+      "title": "Fundamentals of Deep Learning",
+      "code": "DLIW73629"
+    },
+    {
+      "title": "Fundamentals of Deep Learning",
+      "code": "DLIW73635"
+    },
+    {
+      "title": "Future Proofing AI Factories with Sustainable Computing and Private AI",
+      "code": "S71691"
+    },
+    {
+      "title": "Future-Proof Data Centers for a Dynamic World Using Dell AI Factory With NVIDIA (Presented by Dell Technologies)",
+      "code": "S74416"
+    },
+    {
+      "title": "Future-Proof Your AI Infrastructure With Private AI (Presented by Equinix)",
+      "code": "EXS73984"
+    },
+    {
+      "title": "Future-Ready Factories: The AI-First Revolution in Manufacturing (Presented by TCS)",
+      "code": "S74608"
+    },
+    {
+      "title": "GPU Optimizations: An Efficient and Scalable Neural Network Quantum States Approach for Quantum Chemistry",
+      "code": "P73380"
+    },
+    {
+      "title": "GPU-Driven FHE: Real-Time Private AI Inference Outperforming Custom ASIC",
+      "code": "P73516"
+    },
+    {
+      "title": "GPUDirect Storage and AIStor: Accelerating AI and Data Workflows (Presented by MinIO)",
+      "code": "S71475"
+    },
+    {
+      "title": "Generate and Optimize GPU Code for Deep Learning\u2028 via Multi-Dimensional Homomorphisms",
+      "code": "P71138"
+    },
+    {
+      "title": "Generative AI Applications for the Financial Services Industry",
+      "code": "CWE73263"
+    },
+    {
+      "title": "Generative AI Model Serving With Triton Inference Server",
+      "code": "CWE73367"
+    },
+    {
+      "title": "Generative AI for Code Generation (Presented by EXL)",
+      "code": "EXS74214"
+    },
+    {
+      "title": "Generative AI for Core Banking",
+      "code": "S71522"
+    },
+    {
+      "title": "Generative AI for High-Throughput Metal-Organic Framework Discovery",
+      "code": "S73703"
+    },
+    {
+      "title": "Generative AI-Driven Sentiment Analysis for Proactive Ticket Resolution",
+      "code": "P73513"
+    },
+    {
+      "title": "Generative AI: EYQ's Catalyst for Business Transformation (Presented by EY)",
+      "code": "S74295"
+    },
+    {
+      "title": "Get Started With Langflow: Build a Multi-Agent Shopping Assistant",
+      "code": "DLIT74487"
+    },
+    {
+      "title": "Grounding LLMs in Reality: Enhancing SAP\u2019s Document Grounding",
+      "code": "S72059"
+    },
+    {
+      "title": "Guardrails for NVIDIA Halos Across the Product Life Cycle",
+      "code": "S74744"
+    },
+    {
+      "title": "Hacking Agents: Unlock the Cognitive Value Chain With Langflow (Presented by DataStax)",
+      "code": "S74265"
+    },
+    {
+      "title": "Harmonizing Digital Twins and AI Factory: Unlocking Industrial Autonomy",
+      "code": "S72673"
+    },
+    {
+      "title": "Harness AI Agents to Strengthen and Scale Security Operations",
+      "code": "S72531"
+    },
+    {
+      "title": "Harness the Potential and Navigate the Challenges of Generative AI in Higher Education and Research",
+      "code": "CWE73348"
+    },
+    {
+      "title": "Harnessing AI Agents for Enterprise Success: Insights From AI Experts",
+      "code": "S72355"
+    },
+    {
+      "title": "Harnessing AI for Advanced Flood Risk Modelling and Mitigation Strategies",
+      "code": "S71381"
+    },
+    {
+      "title": "Harnessing Generative AI to Scale the Autonomous Vehicle Industry",
+      "code": "S73216"
+    },
+    {
+      "title": "Harnessing NVIDIA\u2019s Advanced Tools for Generative AI in Digital Health and Clinical Trials",
+      "code": "DLIT71262"
+    },
+    {
+      "title": "Heritage Meets Technology: Leveraging Virtualized Platforms for Architectural Conservation and Business Innovation",
+      "code": "S72407"
+    },
+    {
+      "title": "Heterogeneous Computing Workflow Accelerates End-to-End Medical Image AI Training",
+      "code": "P73464"
+    },
+    {
+      "title": "High-Throughput LLM Serving on Edge Devices (NVIDIA Jetson AGX Orin 32GB)",
+      "code": "P73466"
+    },
+    {
+      "title": "Horizontal Scaling of LLM Training with JAX",
+      "code": "S73266"
+    },
+    {
+      "title": "How Capital One Built its Own Generative AI Agent Servicing Tool (Presented by Capital One)",
+      "code": "EXS74442"
+    },
+    {
+      "title": "How CrowdStrike Accelerates Agentic Cybersecurity with NVIDIA (Presented by CrowdStrike)",
+      "code": "S74260"
+    },
+    {
+      "title": "How Efficient Inference Enables AI Transformation With Open-Source Models (Presented by Together AI)",
+      "code": "S74205"
+    },
+    {
+      "title": "How Indonesia Delivered a Telco-led Sovereign AI Platform for 270M Users",
+      "code": "S73440"
+    },
+    {
+      "title": "How Intercontinental Exchange is Taking AI from Production to Scale to Improve Efficiency",
+      "code": "S72463"
+    },
+    {
+      "title": "How Lowe\u2019s Leverages AI to Become an Agile Digital Retailer",
+      "code": "S73715"
+    },
+    {
+      "title": "How Many GPUs Do You Need for Your Inference Workload?",
+      "code": "CWE74833"
+    },
+    {
+      "title": "How MediaTek and NVIDIA Are Collaborating to Make AI Ubiquitous (Presented by MediaTek)",
+      "code": "EXS74526"
+    },
+    {
+      "title": "How We Built the First Multi-Agent Pipeline That Generates AI Software Interfaces",
+      "code": "S71591"
+    },
+    {
+      "title": "How to Accelerate a Multimodal LLM-Based Real-Time Video Generation and Life-Like Interactive System on a Digital Human Platform by TensorRT-LLM",
+      "code": "S72675"
+    },
+    {
+      "title": "How to Automate AI Transparency: Enhancing Model Transparency With Minimal Effort",
+      "code": "S72399"
+    },
+    {
+      "title": "How to Build Multimodal Agentic AI Retrieval Systems",
+      "code": "S72208"
+    },
+    {
+      "title": "How to Build an Agentic AI System Using the Best Tools and Frameworks",
+      "code": "S73739"
+    },
+    {
+      "title": "How to Onboard Your Team of AI Agents and Transform Your Enterprise",
+      "code": "S71784"
+    },
+    {
+      "title": "HybridRAG: Make RAG More Accurate by Combining Graph and Vector-Based Retrieval",
+      "code": "CWE72566"
+    },
+    {
+      "title": "Immersive BMW Factory Tour powered by AI",
+      "code": "S71294"
+    },
+    {
+      "title": "Impact of Standardization on Functional Safety-Related AI-Based Applications",
+      "code": "CWE73342"
+    },
+    {
+      "title": "Implement Model Governance and RAG Capabilities With VMware Private AI Foundation With NVIDIA (Presented by VMware by Broadcom)",
+      "code": "EXS74477"
+    },
+    {
+      "title": "Implementing AI Regulation: A Global View of How Businesses are Approaching Compliance",
+      "code": "S71594"
+    },
+    {
+      "title": "Improve Chip Design Using Intelligent Retrieval and Agent-Driven Workflow Innovations",
+      "code": "CWE74840"
+    },
+    {
+      "title": "Improve Training Throughput of MLIP Models With Load Balancing and cuEquivariance",
+      "code": "P73584"
+    },
+    {
+      "title": "Improve Vector Database Performance While Reducing DRAM Use in AI Systems (Presented by KIOXIA)",
+      "code": "EXS74254"
+    },
+    {
+      "title": "Improving LLM Performance With University Math Problems via Repeated Fine-Tuning",
+      "code": "P73499"
+    },
+    {
+      "title": "Infosys SLMs: Driving Industry Transformation with AI (Presented by Infosys)",
+      "code": "S74459"
+    },
+    {
+      "title": "Inside NVIDIA's Growing AI Portfolio",
+      "code": "DD73693"
+    },
+    {
+      "title": "Insights and Lessons Learned From Building LLM-Powered Applications",
+      "code": "S73649"
+    },
+    {
+      "title": "Insights on Building an Enterprise Multi-Agentic Conversational AI Workflow (Presented by Capital One)",
+      "code": "S74439"
+    },
+    {
+      "title": "InstantSpeech: Instant Synchronous Text-to-Speech Synthesis for LLM-Driven Voice Chatbots",
+      "code": "P72550"
+    },
+    {
+      "title": "Instruct-PBR: Text-Guided Material Editing With NVIDIA NIM Stable Diffusion",
+      "code": "P73029"
+    },
+    {
+      "title": "Integrate LLMs Into Asset Management to Drive Innovation and Efficiency",
+      "code": "S71575"
+    },
+    {
+      "title": "Inter-GPU Communication Techniques and Libraries for HPC and AI",
+      "code": "CWE72547"
+    },
+    {
+      "title": "Interconnected Multi-Agent in Recruitment",
+      "code": "P73486"
+    },
+    {
+      "title": "Interpret Health Data With AI to Change the Future of Medicine",
+      "code": "S71671"
+    },
+    {
+      "title": "Intro to Large Language Models: LLM Tutorial and Disease Diagnosis LLM Lab",
+      "code": "DLIT71755"
+    },
+    {
+      "title": "Introducing NVIDIA Dynamo: A Distributed Inference Serving Framework for Reasoning models",
+      "code": "S73042"
+    },
+    {
+      "title": "Jane Street: How an Early AI Adopter Thinks About Infrastructure (Presented by CoreWeave)",
+      "code": "S74219"
+    },
+    {
+      "title": "Jetson Platform Reinforcement Learning CMP Controller",
+      "code": "P73251"
+    },
+    {
+      "title": "Keep Your GPUs Going Brrr : Crushing Whitespace in Model Training",
+      "code": "S73733"
+    },
+    {
+      "title": "Kolmogorov AI Networks for Interpretable Financial Forecasting",
+      "code": "S72542"
+    },
+    {
+      "title": "LLM 2-bit \u540e\u91cf\u5316\u7684\u52a0\u901f\u4e0e\u90e8\u7f72\u5b9e\u8df5",
+      "code": "S72647"
+    },
+    {
+      "title": "LLM Inference Performance and Optimization on NVIDIA GB200 NVL72",
+      "code": "S72503"
+    },
+    {
+      "title": "LLM Pruning and Distillation in Practice: The Minitron Approach",
+      "code": "S71779"
+    },
+    {
+      "title": "Laiye AI Foundry - NVIDIA AI Enterprise \u5728\u4e2d\u56fd\u7684\u6700\u4f73\u5b9e\u8df5",
+      "code": "S72276"
+    },
+    {
+      "title": "Leading Locally: State and Municipal Policymakers Driving AI Workforce Transformation",
+      "code": "SE74556"
+    },
+    {
+      "title": "Learn to Build Agentic AI Workflows for Enterprise Applications",
+      "code": "DLIT74032"
+    },
+    {
+      "title": "Learning a Language of Stains: Tokenization Facilitates Interpretable Multiplex Immunofluorescence and Histology Image Synthesis",
+      "code": "P73573"
+    },
+    {
+      "title": "Less is More: Data Filtering for Efficient Adversarial Training",
+      "code": "P72983"
+    },
+    {
+      "title": "Lessons Learned From Building an Enterprise RAG App at Scale: A Deep Look (Presented by Cohesity)",
+      "code": "S74268"
+    },
+    {
+      "title": "Lessons in Deploying a Global Banking-Ready AI Platform (Presented by AHEAD)",
+      "code": "EXS74642"
+    },
+    {
+      "title": "Level Up Retail Store Security and Customer Insights with Video Analytics AI Agents",
+      "code": "S71858"
+    },
+    {
+      "title": "Level Up Your LLM Training: Resilient Training With NeMo",
+      "code": "S72416"
+    },
+    {
+      "title": "Leverage Large Language Models to Transform the Software Development Process",
+      "code": "P72731"
+    },
+    {
+      "title": "Leverage Small Language Models for Your Digital Human Applications",
+      "code": "CWE73329"
+    },
+    {
+      "title": "Leverage Tailored LLMs for Improved Insights in Rail Transportation",
+      "code": "S71296"
+    },
+    {
+      "title": "Leveraging NIM and GPU Acceleration to Transform Chip Design with AI",
+      "code": "S72227"
+    },
+    {
+      "title": "LongSpeak: A Long-Form Speech Large Language Model",
+      "code": "P72718"
+    },
+    {
+      "title": "Low-Precision Inference in vLLM",
+      "code": "S72114"
+    },
+    {
+      "title": "MOMA: Zero-Shot Multi-Objective Antibody Evolution Using Multi-Agents",
+      "code": "P73478"
+    },
+    {
+      "title": "Machine Learning-Assisted Physical Layer Processing in 5G NR",
+      "code": "P74454"
+    },
+    {
+      "title": "Make It Easy with Nutanix GenAI Inference (Presented by Nutanix)",
+      "code": "EXS74247"
+    },
+    {
+      "title": "Make Retrieval Better: Fine-Tuning an Embedding Model for Domain-Specific RAG",
+      "code": "DLIT71238"
+    },
+    {
+      "title": "Making Physical AI a Reality Through Real-Time Edge Computing",
+      "code": "S73298"
+    },
+    {
+      "title": "Manufacturing for AI and AI for Manufacturing (Presented by Inventec)",
+      "code": "S74307"
+    },
+    {
+      "title": "Mass Capacity Storage: Storing Infinite Potential in the AI Era (Presented by Seagate Technology)",
+      "code": "EXS74552"
+    },
+    {
+      "title": "Mass Personalization at Scale: Activating the Snickers Brand World Through Gen AI",
+      "code": "S71571"
+    },
+    {
+      "title": "Master AI Workload Optimization: Insights From Real-World Implementations (Presented by GMI Cloud)",
+      "code": "EXS74328"
+    },
+    {
+      "title": "Maximize AI Training With NVIDIA AI Platform and Accelerated Solutions (Presented by PNY Technologies)",
+      "code": "S74294"
+    },
+    {
+      "title": "Maximize Contact Center Efficiency With NVIDIA AI: Boost First-Call Resolution and Cut Handle Time",
+      "code": "S71402"
+    },
+    {
+      "title": "Maximizing Embedding and Retrieval Efficiency on Nasdaq\u2019s Generative AI Platform with NVIDIA AI",
+      "code": "S73129"
+    },
+    {
+      "title": "Maximizing GPU Utilization: The Key to Accelerating AI Productivity (Presented by Ori Industries)",
+      "code": "S74204"
+    },
+    {
+      "title": "Meet Training Experts & Explore Self-Paced Learning",
+      "code": "DLISP74697"
+    },
+    {
+      "title": "Meet the Experts From Deep Learning Framework Teams",
+      "code": "CWE73312"
+    },
+    {
+      "title": "Meta's Llama Ecosystem: Unlocking New Possibilities (Presented by Meta)",
+      "code": "EXS74457"
+    },
+    {
+      "title": "MiTAC G4527G6 MGX AI Server Introduction (Presented by MiTAC)",
+      "code": "S74517"
+    },
+    {
+      "title": "Mistral AI: Placing Frontier AI in Your Hands",
+      "code": "S73942"
+    },
+    {
+      "title": "Mobile-Agent: \u63a2\u7d22\u57fa\u4e8e\u591a\u6a21\u6001\u667a\u80fd\u4f53\u7684\u6c7d\u8f66\u5ea7\u8231\u52a9\u624b\u65b0\u6280\u672f",
+      "code": "S72561"
+    },
+    {
+      "title": "Modular Design to Accelerate AI Technologies (Presented by MSI)",
+      "code": "S74188"
+    },
+    {
+      "title": "Multi-Agent AI Pharmacovigilance: Transforming Drug Safety Intelligence (Presented by Tech Mahindra)",
+      "code": "EXS74619"
+    },
+    {
+      "title": "Multi-Domain Large Language Model Adaptation Using Synthetic Data Generation",
+      "code": "S71886"
+    },
+    {
+      "title": "Multi-Location Solar Irradiance Forecasting Using Hybrid Quantum Neural Networks for Renewable Energy Assessment",
+      "code": "P73390"
+    },
+    {
+      "title": "Multi-Modality and Multi-AI Agents for Hardware Design",
+      "code": "S72294"
+    },
+    {
+      "title": "Multimodal Medical Report Generation System",
+      "code": "P73564"
+    },
+    {
+      "title": "NVBot Platform to Develop and Manage AI-Powered Tools and Chatbots",
+      "code": "P73530"
+    },
+    {
+      "title": "NVIDIA AI Platform and Accelerated Solutions Overview (Presented by PNY Technologies)",
+      "code": "S74297"
+    },
+    {
+      "title": "NVIDIA Cosmos World Foundation Models for Autonomous Driving Development",
+      "code": "S73198"
+    },
+    {
+      "title": "NVIDIA NIM/NeMo\u3067\u5b9f\u73fe\u3059\u308b\u751f\u6210AI\u306b\u3088\u308b\u8cc7\u7523\u904b\u7528\u30ec\u30dd\u30fc\u30c6\u30a3\u30f3\u30b0\u306e\u5909\u9769",
+      "code": "S73894"
+    },
+    {
+      "title": "NVIDIA Nventures Showcase: AI Agents in Physical and Virtual Worlds",
+      "code": "DD73694"
+    },
+    {
+      "title": "NVIDIA and Lenovo Present: Women in AI",
+      "code": "SE73374"
+    },
+    {
+      "title": "NVIDIA \u5f00\u521b AI \u8ba1\u7b97\u7f51",
+      "code": "S73842"
+    },
+    {
+      "title": "NVINFO AI: Enhancing Enterprise Productivity with Mixture of Experts\u200b",
+      "code": "P73511"
+    },
+    {
+      "title": "Navigate the AI Frontier: Overcome Data Center Challenges and Harness Structured Cabling for Gen AI Deployments (Presented by CommScope)",
+      "code": "S74369"
+    },
+    {
+      "title": "Navigating Challenges and Technical Debt in LLMs Deployment",
+      "code": "S71116"
+    },
+    {
+      "title": "Navigating Critical Challenges in AI Governance",
+      "code": "S73058"
+    },
+    {
+      "title": "Navigating the Future: The Impact of Accelerated Computing and AI on Data Center Electricity Demand",
+      "code": "S73672"
+    },
+    {
+      "title": "Near-Real-Time Fire Detection Leveraging Edge AI in Space: Transforming Thermal Earth Observation with NVIDIA",
+      "code": "S72067"
+    },
+    {
+      "title": "Nettrix NEX AI Lab: A New Era of AI Computation (Presented by Nettrix)",
+      "code": "S74653"
+    },
+    {
+      "title": "Network Modernization in the Age of AI (Presented by Aviz Networks)",
+      "code": "S74425"
+    },
+    {
+      "title": "Next-Gen Customer Experience Using Domain-Expert Digital Employees",
+      "code": "S71968"
+    },
+    {
+      "title": "No Memory Left Behind: How CXL Unlocks the Full Potential of AI (Presented by Astera Labs)",
+      "code": "EXS74246"
+    },
+    {
+      "title": "No-Limits AI With Lenovo Neptune Cooling (Presented by Lenovo)",
+      "code": "S74323"
+    },
+    {
+      "title": "Novel Uses for AI to Drive Monetization in Large M&E Archives",
+      "code": "S72715"
+    },
+    {
+      "title": "Open-Sora: Training a Commercial-Level Video Generation Model with $200k",
+      "code": "S72728"
+    },
+    {
+      "title": "Optimize Language Model Pre-Training With Semantic Chunking and Dynamic Concatenation",
+      "code": "P72809"
+    },
+    {
+      "title": "Optimize Parallelism in Large Language Models Training: Trends and Future Directions",
+      "code": "P74383"
+    },
+    {
+      "title": "Optimized Deployment of Large Language Models",
+      "code": "CWE72337"
+    },
+    {
+      "title": "Optimizing AI Workloads on Windows Workstations: Strategies and Best Practices",
+      "code": "CWE72514"
+    },
+    {
+      "title": "Optimizing Clinical Trials with ConcertAI Trial Simulator",
+      "code": "P72765"
+    },
+    {
+      "title": "Optimizing HPC and AI for Energy and Performance",
+      "code": "S72544"
+    },
+    {
+      "title": "Optimizing MicroLED Mass Repair With Reinforcement Learning: A Framework for Large-Scale Manufacturing",
+      "code": "P73544"
+    },
+    {
+      "title": "Own Your AI: Building an Open-Source AI Strategy",
+      "code": "S73262"
+    },
+    {
+      "title": "PDFSpeak: Unlocking Multimodal PDF Intelligence Through Speech",
+      "code": "DLIT71304"
+    },
+    {
+      "title": "Pathogenic or Benign? AI-Powered Predictions in Genomic Variant Classification",
+      "code": "P73461"
+    },
+    {
+      "title": "Peering Into the Future: What AI and Graph Networks Can Mean for the Future of Financial Analysis",
+      "code": "S74726"
+    },
+    {
+      "title": "Perceptor: A Generative AI Assistant for SREs and IT Incident Managers",
+      "code": "P73567"
+    },
+    {
+      "title": "Performance-Optimized CUDA Kernels for Inference With Small Transformer Models",
+      "code": "S73168"
+    },
+    {
+      "title": "Personalized AI Characters",
+      "code": "D7003"
+    },
+    {
+      "title": "Petascale Storage Integrated Platforms for AI Clusters (Presented by Supermicro)",
+      "code": "S74296"
+    },
+    {
+      "title": "Physical AI for the Next Frontier of Industrial Digitalization",
+      "code": "S73232"
+    },
+    {
+      "title": "Pioneering AI Assistants in Banking",
+      "code": "S72736"
+    },
+    {
+      "title": "Pioneering Automated EV Battery Recycling: Leverage Synthetic Data and Reinforcement Learning for Sustainable Disassembly",
+      "code": "P72740"
+    },
+    {
+      "title": "Pioneering the Future of Data Platforms for the Era of Generative AI",
+      "code": "S71650"
+    },
+    {
+      "title": "Polymathic AI: Building Foundation Models for Science",
+      "code": "S72260"
+    },
+    {
+      "title": "Power the Next Wave of AI with Real-Time Runtime Security",
+      "code": "S71642"
+    },
+    {
+      "title": "Predicting Disease Outcomes for Multiple Sclerosis: A Vision-Language Model and Federated Learning Approach",
+      "code": "P73540"
+    },
+    {
+      "title": "Pretraining of Foundation Large Language Models for Ecommerce",
+      "code": "S72589"
+    },
+    {
+      "title": "Production-Scale Generative AI for Science at NERSC",
+      "code": "S72108"
+    },
+    {
+      "title": "Productionize LLMs for Quantitative Analysis of Market Risk: An Exploratory Attempt",
+      "code": "S73818"
+    },
+    {
+      "title": "Productionizing GenAI Models: Lessons from the world's best AI teams",
+      "code": "S72489"
+    },
+    {
+      "title": "Profile Large Language Model Trainings on the Grace Hopper Superchip",
+      "code": "S72967"
+    },
+    {
+      "title": "Promoting SSD Utilization in RAG Systems (Presented by KIOXIA)",
+      "code": "S74249"
+    },
+    {
+      "title": "Protect and Control Your AI Applications (Presented by Cloudflare)",
+      "code": "EXS74302"
+    },
+    {
+      "title": "Protein AI applications Using BioNemo for Agricultural Biotech Traits",
+      "code": "S72587"
+    },
+    {
+      "title": "Put AI Agents to Work for People (Presented by ServiceNow)",
+      "code": "S74232"
+    },
+    {
+      "title": "Put AI Agents to Work for People (Presented by ServiceNow)",
+      "code": "S74236"
+    },
+    {
+      "title": "Quality Inspection of Casting Aluminum Parts Using Augmented Reality and Deep Learning",
+      "code": "P73307"
+    },
+    {
+      "title": "Quantize Large Transformer Diffusion Models to Improve End-to-End Latencies and Save Inference Cost",
+      "code": "S72556"
+    },
+    {
+      "title": "Quantum Computing Meets AI: A Journey with CUDA-Q",
+      "code": "DLIT71557"
+    },
+    {
+      "title": "Re-Imagine Logistics Through AI-Driven Mapping",
+      "code": "S73215"
+    },
+    {
+      "title": "ReFer: Single-Shot Foresight Pruning for Retaining Feature Representation",
+      "code": "P73494"
+    },
+    {
+      "title": "Realize the Promise of AI Agents as a Workforce Multiplier in Cybersecurity",
+      "code": "S73136"
+    },
+    {
+      "title": "Recognition of Catastrophic Events using Structural Deterioration Patterns in Foundation Models",
+      "code": "P73575"
+    },
+    {
+      "title": "Reimagine Customer Service With Agentic AI (Presented by Wipro Limited)",
+      "code": "EXS74503"
+    },
+    {
+      "title": "Reimagining Business Processes for Manufacturers with AI-Powered Digital Twins",
+      "code": "S71662"
+    },
+    {
+      "title": "Reinvent Warehouses and Distribution Centers With AI-Powered Digital Twins (Presented by Accenture)",
+      "code": "S74342"
+    },
+    {
+      "title": "Reinventing Smart Manufacturing: How Foxconn Builds and Deploys an AI Workforce",
+      "code": "S72841"
+    },
+    {
+      "title": "Reshaping the Future of AI Filmmaking",
+      "code": "S72649"
+    },
+    {
+      "title": "Resilient Edge-Cloud Hybrid AI Infrastructure: Orchestrating Multi-Modal Agents in Resource-Constrained Environments (Presented by Lablup)",
+      "code": "EXS74187"
+    },
+    {
+      "title": "Rethinking E-Commerce: Build a Multi-Agent Shopping Assistant on Langflow  (Presented by DataStax)",
+      "code": "EXS74321"
+    },
+    {
+      "title": "Revolutionize Automotive Marketing with Generative AI and Apple Vision Pro",
+      "code": "S71855"
+    },
+    {
+      "title": "Revolutionize Pedestrian Safety: AI-Powered Crash Worthiness",
+      "code": "S73087"
+    },
+    {
+      "title": "Revolutionize Supply Chain Analytics With AI and Accelerated Computing (Presented by EY)",
+      "code": "S74122"
+    },
+    {
+      "title": "Revolutionizing Antarctic Flora Monitoring With AI and Drones",
+      "code": "P73519"
+    },
+    {
+      "title": "Revolutionizing Merchandising With Digital Twin Tools: Enhancing Retail Strategy and Visualization at Lowe's",
+      "code": "S72069"
+    },
+    {
+      "title": "Revolutionizing Rideshare Customer Support using Generative AI",
+      "code": "S72490"
+    },
+    {
+      "title": "Robotic Simulations With Reinforcement Learning at Scale: Harness the Power of NVIDIA Isaac Lab on AWS",
+      "code": "DLIT71688"
+    },
+    {
+      "title": "RocketKV: Accelerate Long-Context LLM Inference via Two-stage KV Cache Compression",
+      "code": "P74474"
+    },
+    {
+      "title": "Safety Regulation and Standardization in the Era of AI-Based AVs",
+      "code": "S74745"
+    },
+    {
+      "title": "Scalable AI Infrastructure in the Gaming Industry",
+      "code": "S73667"
+    },
+    {
+      "title": "Scaling AI Systems for Human Creativity: Lessons From Building Canva\u2019s AI-First Design Platform",
+      "code": "S72895"
+    },
+    {
+      "title": "Scaling AI startups: Overcoming Challenges & Building for the Future (Presented by Northern Data Group)",
+      "code": "S74253"
+    },
+    {
+      "title": "Scaling Distributed AI Applications with Ray",
+      "code": "S71766"
+    },
+    {
+      "title": "Scaling Generative AI with Cloudera and NVIDIA: Deploy LLMs With AI Inference (Presented by Cloudera)",
+      "code": "S74326"
+    },
+    {
+      "title": "Scaling Inference Using NIM Through a ServerLess NCP SaaS Platform",
+      "code": "DLIT71918"
+    },
+    {
+      "title": "Scaling LLMs to Support 14 Million Users while Optimizing Performance and Accuracy",
+      "code": "S72674"
+    },
+    {
+      "title": "Scaling Marketing Visuals with Digital Twins and Generative AI",
+      "code": "CWE73369"
+    },
+    {
+      "title": "Scaling Meta's Infrastructure for Heterogenous AI Use-Cases and Operational Efficiency",
+      "code": "S72305"
+    },
+    {
+      "title": "Scaling Open Source AI: From Foundation Models to Ecosystem Success",
+      "code": "S74647"
+    },
+    {
+      "title": "Scaling Transformers: Navigating Challenges and Innovations in Long-Context Modeling",
+      "code": "S73152"
+    },
+    {
+      "title": "Scaling and Leveraging Multi-Modal Large Models for Roblox's Metaverse",
+      "code": "S72911"
+    },
+    {
+      "title": "Secrets for Scaling Gen AI from Proof of Concept to Production",
+      "code": "CWE72612"
+    },
+    {
+      "title": "Secure AI Without Killing the Innovation Buzz (Presented by Trend Micro)",
+      "code": "EXS74452"
+    },
+    {
+      "title": "Securing Agentic AI Developer Day",
+      "code": "DD73355"
+    },
+    {
+      "title": "Securing the Future of Generative AI: CrowdStrike and NVIDIA in Action (Presented by CrowdStrike)",
+      "code": "EXS74263"
+    },
+    {
+      "title": "Securing the Future: Protecting and Consuming Agentic AI",
+      "code": "S73049"
+    },
+    {
+      "title": "See the Unseen: Using AI for Encrypted Network Traffic Analysis (Presented by Arista)",
+      "code": "S74231"
+    },
+    {
+      "title": "Self-Driving Microscopes: From Malaria Diagnostics to AI-Driven Discovery Platforms for Spatial Biology",
+      "code": "S73188"
+    },
+    {
+      "title": "Semi-Supervised Learning for Code-Switching ASR With LLM Filter",
+      "code": "P72502"
+    },
+    {
+      "title": "Shape the Future of Intelligent Networks With AI and Digital Twins (Presented by TCS)",
+      "code": "S74610"
+    },
+    {
+      "title": "Simplify AI Adoption With Dell AI Factory and NVIDIA (Presented by Dell Technologies)",
+      "code": "S74621"
+    },
+    {
+      "title": "Single-View X-Ray 3D Reconstruction Using Neural Back Projection and Frustum Resampling",
+      "code": "P73547"
+    },
+    {
+      "title": "Slice-100K: A Multimodal Dataset for Extrusion-Based 3D Printing",
+      "code": "P74401"
+    },
+    {
+      "title": "Smaller Language Model with RAG and Fine-Tuning Gets Better Results and Reduces Costs With Red Hat AI (Presented by Red Hat)",
+      "code": "S74237"
+    },
+    {
+      "title": "Solving the Paradox of Sustainable AI (Presented by HPE)",
+      "code": "S74332"
+    },
+    {
+      "title": "Sovereign AI Summit",
+      "code": "SE73317"
+    },
+    {
+      "title": "Speech AI Demystified",
+      "code": "S73113"
+    },
+    {
+      "title": "Stable and Scalable FP8 Deep Learning Training on Blackwell",
+      "code": "S72778"
+    },
+    {
+      "title": "State-of-the-Art Deep Learning Foundation Models for Biology",
+      "code": "S73896"
+    },
+    {
+      "title": "Storage Benchmarks: Optimize AI Model Training and Inference at Scale (Presented by CoreWeave)",
+      "code": "S74217"
+    },
+    {
+      "title": "Storage Innovations for AI Workloads",
+      "code": "S72329"
+    },
+    {
+      "title": "Stream Data Processing with Event-Driven GPUDirect Inference for Multi-Model AI",
+      "code": "P72961"
+    },
+    {
+      "title": "Streaming Into the Future: AI in Live Sports",
+      "code": "S72512"
+    },
+    {
+      "title": "Streamlining Investment Insights for Wealth Management with Generative AI",
+      "code": "S71653"
+    },
+    {
+      "title": "Structure From Chaos: Accelerate GraphRAG With cuGraph and NVIDIA NIM",
+      "code": "DLIT71491"
+    },
+    {
+      "title": "Structured Cabling Considerations for AI Cluster Flexibility (Presented by CommScope)",
+      "code": "EXS74388"
+    },
+    {
+      "title": "SuperWater: Predicting Water Molecule Positions on Protein Structures by Generative AI",
+      "code": "P73524"
+    },
+    {
+      "title": "Supercharge Enterprise AI Inference Using Amazon Bedrock and SageMaker AI (Presented by Amazon Web Services)",
+      "code": "S74273"
+    },
+    {
+      "title": "Supercharge Gen AI Development With Z by HP GenAI Lab and AI Studio (Presented by HP)",
+      "code": "S74465"
+    },
+    {
+      "title": "Supercharge large scale AI with Google Cloud AI hypercomputer (Presented by Google Cloud)",
+      "code": "S74319"
+    },
+    {
+      "title": "Supercharging Ecommerce Revenue and Operational Efficiency using Generative AI",
+      "code": "S71805"
+    },
+    {
+      "title": "Surgical AI Copilot for Robot-Assisted Surgeries",
+      "code": "P72975"
+    },
+    {
+      "title": "Surgical Robotics and AI Agents From the Heart of the O.R.",
+      "code": "EXS74638"
+    },
+    {
+      "title": "Sustainable Futures Showcase",
+      "code": "S74531"
+    },
+    {
+      "title": "SwinPIR: A Deep Learning Framework for Package Dynamic IR Drop Prediction Using Video Swin Transformer",
+      "code": "P72811"
+    },
+    {
+      "title": "Tencent HunYuan: Building a High-Performance Inference Engine for Large Models Based on NVIDIA TensorRT-LLM",
+      "code": "S71563"
+    },
+    {
+      "title": "Text to Structural Form 3D: Enhancing Structural Form-Finding Through a Text-Based AI Engine Leveraging NVIDIA RTX A100 GPU for LLM Label Creation",
+      "code": "P73381"
+    },
+    {
+      "title": "The (LLM) Architects \u2013 ARC-AGI 2024 Winning Solution (Presented by Lambda)",
+      "code": "S74252"
+    },
+    {
+      "title": "The ABCs of SDG (Synthetic Data Generation)",
+      "code": "S73237"
+    },
+    {
+      "title": "The European AI Factory: What to Demand From AI Factory-as-a-Service (Presented by Northern Data Group)",
+      "code": "S74244"
+    },
+    {
+      "title": "The Evolving Landscape of Open Source in Generative AI Foundation Models",
+      "code": "S72132"
+    },
+    {
+      "title": "The Expanding Sound: Unlock Creativity With AI in Audio Innovation",
+      "code": "S74507"
+    },
+    {
+      "title": "The Future of Retail E-Commerce: Embedding Generative AI to Enhance Search and Shopping Assistants",
+      "code": "S71086"
+    },
+    {
+      "title": "The Future of Video Compression is AI-Driven",
+      "code": "S72840"
+    },
+    {
+      "title": "The Great Power Shift: How AI is Changing Decision Rights (Presented by TCS)",
+      "code": "S74601"
+    },
+    {
+      "title": "The Human Touch: Enhance Gen AI With Quality Post-Training and Evaluation Data",
+      "code": "S73235"
+    },
+    {
+      "title": "The Impact of AI on Filmmaking: Real-World Transformation",
+      "code": "S73743"
+    },
+    {
+      "title": "The Impact of Generative AI on the Automotive Industry",
+      "code": "CWE73326"
+    },
+    {
+      "title": "The Instrumental Edge: Enabling Real-Time AI Scientific Discovery",
+      "code": "S72921"
+    },
+    {
+      "title": "The New Role of AI in Electric Vehicles",
+      "code": "S73711"
+    },
+    {
+      "title": "The Next Era of Payments: How Generative AI is Shaping the Future",
+      "code": "S72846"
+    },
+    {
+      "title": "The Next Era of Surgery: AI-Driven Innovation in the Operating Room",
+      "code": "EXS74337"
+    },
+    {
+      "title": "The Next Frontier in AI: Multi-Agent Systems (Presented by Cognizant)",
+      "code": "S74588"
+    },
+    {
+      "title": "The Next Frontier of AI Supercomputing: Efficiency With Unprecedented Capability",
+      "code": "S72599"
+    },
+    {
+      "title": "The Race to AI Advantage: Rapidly Deploy and Optimize AI Infrastructure (Presented by Penguin Solutions)",
+      "code": "S74594"
+    },
+    {
+      "title": "The Real Last Mile: De-Risking Generative AI in Production",
+      "code": "S72874"
+    },
+    {
+      "title": "The Role of AI and Accelerated Computing in Understanding and Mitigating Urban Climate Change",
+      "code": "S73442"
+    },
+    {
+      "title": "The Safe and Trustworthy Intelligent AI Assistant for Every Enterprise",
+      "code": "P72499"
+    },
+    {
+      "title": "The Speed of Thought: Navigate LLM Inference Autoscaling for a Gen AI Application Toward Production",
+      "code": "DLIT71339"
+    },
+    {
+      "title": "The Telco AI Renaissance Is Here",
+      "code": "S72984"
+    },
+    {
+      "title": "The Vision AI Toolbox",
+      "code": "CWE71225"
+    },
+    {
+      "title": "The Vision AI Toolbox",
+      "code": "CWE73351"
+    },
+    {
+      "title": "Think A-Byte It: Overlook AI Storage Requirements at Your Own Peril (Presented by Solidigm)",
+      "code": "S74241"
+    },
+    {
+      "title": "Tokyo-1\u3068BioNeMo\u3067\u5b9f\u73fe\u3059\u308bAI\u30d9\u30fc\u30b9\u306e\u5275\u85ac\u30ef\u30fc\u30af\u30d5\u30ed\u30fc\u306e\u69cb\u7bc9",
+      "code": "S73892"
+    },
+    {
+      "title": "Toward Multidisciplinary Scientific Foundation Models",
+      "code": "S72256"
+    },
+    {
+      "title": "Toward Multidisciplinary Scientific Foundation Models: Q&A From the EMEA Region",
+      "code": "S72256a"
+    },
+    {
+      "title": "Traceability for Agentic AI Blueprint: Deliver generative AI applications with confidence (Presented by Weights & Biases)",
+      "code": "S74218"
+    },
+    {
+      "title": "Train Video Foundation Models at Scale",
+      "code": "S73918"
+    },
+    {
+      "title": "Train and Serve AI Systems Fast With the Lightning AI Open-Source Stack (Presented by Lightning AI)",
+      "code": "EXS74430"
+    },
+    {
+      "title": "Training Perception AI Models With Synthetic Data Generated From Isaac Sim",
+      "code": "DLIT71431"
+    },
+    {
+      "title": "Training Ultra-Long-Context Language Model With Fully Pipelined Distributed Transformer",
+      "code": "P73578"
+    },
+    {
+      "title": "Transform AECO with AI: Insights from Industry Innovators",
+      "code": "S72528"
+    },
+    {
+      "title": "Transform Cybersecurity With Agentic Blueprints",
+      "code": "S72417"
+    },
+    {
+      "title": "Transform Human Lives and Experiences With NVIDIA AI Platforms (Presented by LTTS)",
+      "code": "S74392"
+    },
+    {
+      "title": "Transform OTT Streaming Leveraging AI and Deep Learning Technologies",
+      "code": "S74577"
+    },
+    {
+      "title": "Transform Semiconductor Design With AI-Driven EDA Solutions Using NVIDIA Technologies (Presented by Synopsys)",
+      "code": "EXS74631"
+    },
+    {
+      "title": "Transform an Enterprise Data Platform With Generative AI and RAG",
+      "code": "S72205"
+    },
+    {
+      "title": "Transform the Automotive Industry With Agentic AI and Multi-Modal LLMs",
+      "code": "DD40003"
+    },
+    {
+      "title": "Transforming Complex Value Chains with Generative AI & Digital Twins",
+      "code": "S72390"
+    },
+    {
+      "title": "Trinix: High-Accuracy Synthetic Data Generation Using 3D CAD Engine",
+      "code": "P74381"
+    },
+    {
+      "title": "Trip Reports Bot: A Chatbot That Prioritizes Expert Content and Generates Insights From a Large Volume of Data",
+      "code": "P73512"
+    },
+    {
+      "title": "Trustworthy Data Agents and Making Inference Faster and Cheaper (Presented by Snowflake)",
+      "code": "S74585"
+    },
+    {
+      "title": "Turn Text into Video: Explore Animated Content Creation with Multimodal Gen AI and NVIDIA NeMo Framework",
+      "code": "DLIT71194"
+    },
+    {
+      "title": "Universal NIM Acceleration With GPU-Sharing Containers (Presented by Lablup)",
+      "code": "S74194"
+    },
+    {
+      "title": "Unleash Generative AI Microservices at the Edge With NVIDIA\u00a0Jetson\u00a0and AWS IoT Greengrass",
+      "code": "DLIT74570"
+    },
+    {
+      "title": "Unlock AI's Potential: A Roadmap to Get Started (Presented by Cisco)",
+      "code": "S74616"
+    },
+    {
+      "title": "Unlock Business Success with DataRobot's Enterprise-ready Agentic AI platform",
+      "code": "S72261"
+    },
+    {
+      "title": "Unlock the Power of AI Agents in Automotive",
+      "code": "S73306"
+    },
+    {
+      "title": "Unlock the Speed of Light for Data Science Workflows With Gemini Coding Assistant",
+      "code": "S73027"
+    },
+    {
+      "title": "Unlocking AI Potential with NVIDIA: Optimizing Datacenter Design (Presented by Sterling)",
+      "code": "S74209"
+    },
+    {
+      "title": "Unlocking Generative AI's Full Potential: Expert Insights for Rapid Innovation and Scale",
+      "code": "S72363"
+    },
+    {
+      "title": "Unlocking High-Performance AI Applications at Airbnb",
+      "code": "S73265"
+    },
+    {
+      "title": "Unlocking the Potential of Multilingual Language Models",
+      "code": "S73871"
+    },
+    {
+      "title": "Unlocking the Potential of the AI Compiler in Recommendation Systems",
+      "code": "S72642"
+    },
+    {
+      "title": "Upskill Manufacturing Workforces with AI Agents",
+      "code": "S73304"
+    },
+    {
+      "title": "Use NVIDIA Base Command Manager and Run:ai to Fuel Your AI Superpowers",
+      "code": "DLIT71684"
+    },
+    {
+      "title": "Using AI Tools to Digitize Performers in Live Events",
+      "code": "S72089"
+    },
+    {
+      "title": "Using Astris AI Factory to Build Scalable AI for Control Systems (Presented by Astris AI)",
+      "code": "S74567"
+    },
+    {
+      "title": "Using Digital Factories to Advance Physical AI",
+      "code": "S73848"
+    },
+    {
+      "title": "Utilizing NVIDIA NIM\u2122 for Enterprise-Grade AI Code Assistance (Presented by Codeium)",
+      "code": "EXS74374"
+    },
+    {
+      "title": "Vibe Coding: AI-Assisted Development for 10X Productivity",
+      "code": "CWE75062"
+    },
+    {
+      "title": "Virtualization Unleashed From VDI to AI: Tactics for Successful Deployments",
+      "code": "CWE72704"
+    },
+    {
+      "title": "Vision Language Models at NVIDIA",
+      "code": "S72699"
+    },
+    {
+      "title": "Visualizing the Future Brain: Generating Future Synthetic 3D Brain via VBM With MONAI and Generative AI (CVAE-GAN)",
+      "code": "P74379"
+    },
+    {
+      "title": "Voice-to-Voice LLM for End-to-End Voice Generation",
+      "code": "S71829"
+    },
+    {
+      "title": "Watch Party: AI Agents for Real-Time Video Understanding and Summarization",
+      "code": "WP72784a"
+    },
+    {
+      "title": "Watch Party: Advanced RAG Pipelines: Engineer Scalable Retrieval Systems for Enterprise AI",
+      "code": "WP73015"
+    },
+    {
+      "title": "Watch Party: An Introduction to NVIDIA Cosmos World Foundation Models",
+      "code": "WP72431a"
+    },
+    {
+      "title": "Watch Party: Build a Strategic Foundation for Enterprise Gen AI",
+      "code": "WP72357"
+    },
+    {
+      "title": "Watch Party: How Indonesia Delivered a Telco-led Sovereign AI Platform for 270M Users",
+      "code": "WP73440"
+    },
+    {
+      "title": "Watch Party: How to Build an Agentic AI System Using the Best Tools and Frameworks",
+      "code": "WP73739"
+    },
+    {
+      "title": "Watch Party: How to Build an Agentic AI System Using the Best Tools and Frameworks",
+      "code": "WP73739b"
+    },
+    {
+      "title": "Watch Party: LLM Inference Performance and Optimization on NVIDIA GB200 NVL72",
+      "code": "WP72503"
+    },
+    {
+      "title": "Watch Party: Physical AI for the Next Frontier of Industrial Digitalization",
+      "code": "WP73232"
+    },
+    {
+      "title": "Watch Party: Pretraining of Foundation Large Language Models for Ecommerce",
+      "code": "WP72589"
+    },
+    {
+      "title": "Watch Party: Safety Regulation and Standardization in the Era of AI-Based AVs",
+      "code": "WP74745"
+    },
+    {
+      "title": "Watch Party: \u5229\u7528\u751f\u6210\u5f0f AI \u548c RAG \u9032\u884c\u4f01\u696d\u8cc7\u6599\u5e73\u53f0\u8f49\u578b",
+      "code": "WP72205"
+    },
+    {
+      "title": "Watch Party: \u6578\u4f4d\u548c\u5be6\u9ad4 AI \u52a9\u91ab\u5b78\u9818\u57df\u8b5c\u5beb\u5168\u65b0\u7bc7\u7ae0",
+      "code": "WP71353"
+    },
+    {
+      "title": "Watch Party: \u5982\u4f55\u4f7f\u7528\u6700\u4f73\u5de5\u5177\u548c\u67b6\u69cb\u5efa\u7acb\u4ee3\u7406 AI \u85cd\u5716",
+      "code": "WP73739a"
+    },
+    {
+      "title": "Watch Party: \u7528\u65bc\u53ef\u64f4\u5145\u5f71\u50cf\u7406\u89e3\u548c\u5373\u6642\u6458\u8981\u7684\u8996\u89ba AI \u4ee3\u7406\u7a0b\u5f0f",
+      "code": "WP72784"
+    },
+    {
+      "title": "Watch Party: \u8cc7\u6599\u5feb\u901f\u9053\u8def\uff1a\u5229\u7528\u6b21\u4e16\u4ee3\u7db2\u8def\u5145\u5206\u767c\u63ee AI \u7684\u6f5b\u529b",
+      "code": "WP71190"
+    },
+    {
+      "title": "Watch Your Language: Create Small Language Models That Run On-Device",
+      "code": "S74407"
+    },
+    {
+      "title": "\u63a2\u7d22 2025 \u5e74\u4e2d\u56fd AI \u5e02\u573a\u4e0e\u521b\u4e1a\u7684\u70ed\u70b9\u53ca\u673a\u9047",
+      "code": "S73909"
+    },
+    {
+      "title": "\u501f\u52a9 AI \u96c6\u6210\u7684 3DGS \u6a21\u578b\u6269\u5c55\u865a\u62df\u5236\u4f5c\u548c\u673a\u5668\u4eba\u4eff\u771f",
+      "code": "S71756"
+    },
+    {
+      "title": "\u751f\u6210 AI \u6642\u4ee3\u306e\u6700\u5148\u7aef\u30a8\u30f3\u30bf\u30e1\u30b3\u30f3\u30c6\u30f3\u30c4\u30fb\u30d7\u30ed\u30c0\u30af\u30b7\u30e7\u30f3\u30ef\u30fc\u30af",
+      "code": "S73866"
+    },
+    {
+      "title": "\u4f7f\u7528 NVIDIA \u6280\u672f\u4e3a\u4f60\u7684\u6bcd\u8a9e\u6784\u5efa LLM",
+      "code": "S71445"
+    },
+    {
+      "title": "\u57fa\u4e8e TensorRT-LLM \u7684\u5e7f\u544a\u573a\u666f\u751f\u6210\u5f0f\u63a8\u7406\u52a0\u901f\u65b9\u6848",
+      "code": "S72995"
+    },
+    {
+      "title": "\u751f\u6210AI\u3092\u6d3b\u7528\u3057\u305f\u3088\u308a\u826f\u3044\u91d1\u878d\u30b5\u30fc\u30d3\u30b9\u306e\u63d0\u4f9b\u306b\u5411\u3051\u3066",
+      "code": "S73895"
+    },
+    {
+      "title": "\u6709\u6548\u5229\u7528 NVAIE \u6784\u5efa\u5229\u7528\u8fb9\u7f18\u5230\u4e91\u7684\u7aef\u5230\u7aef\u81ea\u52a8\u9a7e\u9a76\u6570\u636e\u95ed\u73af",
+      "code": "S72660"
+    },
+    {
+      "title": "\u521b\u4e1a\u4f01\u4e1a\u5728\u751f\u6210\u5f0f AI \u53ca\u673a\u5668\u4eba\u65b9\u5411\u7684\u5b9e\u8df5\u4e0e\u5206\u4eab",
+      "code": "S73910"
+    },
+    {
+      "title": "\u52b9\u7387\u7684\u306a\u30bd\u30d6\u30ea\u30f3AI\u306e\u6700\u524d\u7dda\uff1a\u30c7\u30fc\u30bf\u30bb\u30f3\u30bf\u30fc\u304b\u3089AI\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u307e\u3067",
+      "code": "S73917"
+    },
+    {
+      "title": "\u4f7f\u7528\u6295\u673a\u91c7\u6837\u548c\u8ba1\u7b97\u901a\u4fe1 Overlap \u63d0\u5347 LLM \u63a8\u7406\u6548\u7387",
+      "code": "S72643"
+    },
+    {
+      "title": "\u9002\u7528\u4e8e\u5546\u5e97\u548c\u81ea\u52a8\u552e\u8d27\u673a\u7684 AI \u5546\u4e1a\u5316",
+      "code": "S71580"
+    },
+    {
+      "title": "\u91cd\u5851\u77ed\u89c6\u9891\u89c6\u89c9\u4f53\u9a8c\uff0c\u57fa\u4e8e TensorRT-LLM \u52a0\u901f\u7684\u667a\u80fd\u89c6\u9891\u8d28\u91cf\u8bc4\u4ef7\u4e0e\u5904\u7406\u5927\u6a21\u578b",
+      "code": "S74181"
+    },
+    {
+      "title": "\u30a2\u30b8\u30a2\u3092\u30ea\u30fc\u30c9\u3059\u308b\u30b9\u30d4\u30fc\u30c1AI\u57fa\u76e4\u30e2\u30c7\u30eb\u306e\u9769\u65b0",
+      "code": "S72426"
+    },
+    {
+      "title": "\u6b21\u4e16\u4ee3\u6280\u8853\u306b\u3088\u308b\u30ea\u30a2\u30eb\u30bf\u30a4\u30e0AI\u5206\u6790\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u306e\u793e\u4f1a\u5b9f\u88c5\u306b\u5411\u3051\u3066",
+      "code": "S71773"
+    },
+    {
+      "title": "\u9ad8\u901f\u30fb\u9ad8\u7cbe\u5ea6\u30fb\u7d76\u5bfe\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3\u306b\u3088\u308b\u30b7\u30f3\u30bb\u30c6\u30a3\u30c3\u30af\u30c7\u30fc\u30bf\u304c\u4f5c\u308bAI\u5275\u85ac\u306e\u672a\u6765\u3000Integrating HPC & AI: The Future of AI Drug Discovery Using Scaled and High Quality Synthetic Data",
+      "code": "S73867"
+    }
+  ],
+  "Computer Vision & Graphics": [
+    {
+      "title": "3D \u7269\u7406\u771f\u5b9e\u6570\u5b57\u8d44\u4ea7\u52a0\u901f\u63a8\u52a8\u673a\u5668\u4eba\u5f00\u53d1\u8fdb\u7a0b",
+      "code": "S71763"
+    },
+    {
+      "title": "AI-Driven End-to-End Solution for Floodborne Object Detection and Public Safety",
+      "code": "P72661"
+    },
+    {
+      "title": "Analyzing and Visualizing Large Data Interactively Using Accelerated Computing",
+      "code": "DLIT74336"
+    },
+    {
+      "title": "Architectural Design for 21st Century Cities with Zaha Hadid Architects",
+      "code": "S71764"
+    },
+    {
+      "title": "Audio-Driven Facial Animation Technology for NVIDIA Audio2Face",
+      "code": "S71082"
+    },
+    {
+      "title": "Augmented Intelligence in XR",
+      "code": "D7010"
+    },
+    {
+      "title": "Automate 3D Surgical Modeling With Text-to-3D Mesh and NeVA Framework",
+      "code": "P73600"
+    },
+    {
+      "title": "Build AI-Enabled 3D Video Communication Pipelines With Maxine NIM",
+      "code": "CWE73291"
+    },
+    {
+      "title": "Building a 3D Image-Based Search System for Medical Images: How Can Foundational Models Help?",
+      "code": "S72436"
+    },
+    {
+      "title": "CARDIA3D: Comprehensive Anatomical Recognition and Deep-Learning Imaging Algorithm for 3D Cardiac CT",
+      "code": "P72960"
+    },
+    {
+      "title": "Carbon Sequestration Model of Fourier Neural Operator: From 3D to 4D Dynamics",
+      "code": "P73285"
+    },
+    {
+      "title": "Develop the Future of Photoreal Spatial Computing With Apple Vision Pro and Omniverse",
+      "code": "S72711"
+    },
+    {
+      "title": "Developing Immersive Experiences on Apple Vision Pro With NVIDIA Omniverse",
+      "code": "CWE72382"
+    },
+    {
+      "title": "Developing an OpenUSD Configurator Experience for Apple Vision Pro",
+      "code": "DLIT71323"
+    },
+    {
+      "title": "End-to-End Optimization of Onboard Autonomy Workloads",
+      "code": "S73114"
+    },
+    {
+      "title": "Enhancing Genomic Variant Detection",
+      "code": "S71897"
+    },
+    {
+      "title": "Evaluating the Adversarial Robustness of Detection Transformers",
+      "code": "P73484"
+    },
+    {
+      "title": "Fast Orthogonal Search on Graphics Processing Unit",
+      "code": "P71679"
+    },
+    {
+      "title": "From Rendering to Reality: Using Visualization Tools and GenAI to Improve Customer Decision Making Online",
+      "code": "S71573"
+    },
+    {
+      "title": "Generative Sleep Music System Based on Physiological Voiceprint Closed-Loop\u00a0Adaptive Feedback Care",
+      "code": "P73614"
+    },
+    {
+      "title": "Graduate Fellowship Fast Forward Talks",
+      "code": "S71166"
+    },
+    {
+      "title": "GraphBolt: Overcoming Dynamic Shapes and Irregular Accesses in GNN Data Loading",
+      "code": "S71514"
+    },
+    {
+      "title": "Harnessing Distributed Intelligence With Privacy Preservation: Federated Learning for the Early Detection of Lung Cancer",
+      "code": "P73501"
+    },
+    {
+      "title": "How Volkswagen Shapes the Next Generation of Interactive 3D Experiences",
+      "code": "S72806"
+    },
+    {
+      "title": "Imitation Learning Techniques Using NVIDIA Isaac Lab and Apple Vision Pro",
+      "code": "DLIT71432"
+    },
+    {
+      "title": "Insights and Strategies For Scaling Your Startup",
+      "code": "S73541"
+    },
+    {
+      "title": "Isaac Perceptor\u3068Autoware\u3092\u7d44\u307f\u5408\u308f\u305b\u305fNova Carter\u306e\u81ea\u52d5\u904b\u8ee2",
+      "code": "S73870"
+    },
+    {
+      "title": "Learn OpenUSD: Foundations to Applied Concepts",
+      "code": "DLIT74499"
+    },
+    {
+      "title": "Leverage Computer Vision for High-Fidelity Scene Detection and Actionable Insights",
+      "code": "S74576"
+    },
+    {
+      "title": "NVIDIA Inception: The Catalyst Fueling Your Startup\u2019s Success",
+      "code": "SE71117"
+    },
+    {
+      "title": "NVIDIA Math Libraries",
+      "code": "CWE72398"
+    },
+    {
+      "title": "Optimize Short-Form Video Processing Toward the Speed of Light",
+      "code": "S73178"
+    },
+    {
+      "title": "Optimizing Emergency Response in XR with NVIDIA Aurora",
+      "code": "D7011"
+    },
+    {
+      "title": "Photo-Realistic 3D Digital Twin to Enhance Understanding of the Great Barrier Reef",
+      "code": "P73521"
+    },
+    {
+      "title": "Quantum Computing: Where We Are and Where We\u2019re Headed",
+      "code": "S74495"
+    },
+    {
+      "title": "Real-Time Fault Detection for Railway Surfaces Using Computer Vision (Presented by LTTS)",
+      "code": "EXS74393"
+    },
+    {
+      "title": "Real-Time Mule Account Detection at India Scale",
+      "code": "S72798"
+    },
+    {
+      "title": "Real-Time Multi-GPU Rendering for Codec Avatars",
+      "code": "S72650"
+    },
+    {
+      "title": "Real-Time Stereoscopic Movie Generation in Neurosurgical Microsurgery Utilizing NVIDIA Clara Holoscan",
+      "code": "P72919"
+    },
+    {
+      "title": "Reverse Pitches: VC Pitches for Startups",
+      "code": "S74530"
+    },
+    {
+      "title": "Revolutionize Virtual Production With AI-Powered Ray Tracing",
+      "code": "S73751"
+    },
+    {
+      "title": "Revolutionizing Cardiac MRI Analysis and Diagnosis With AI: A Deep Dive into MONAI-Based Cardiac MRI Segmentation",
+      "code": "S73347"
+    },
+    {
+      "title": "Scalable Real-Time Planogram Compliance Using NVIDIA Optimized Object Detection and Recognition Models",
+      "code": "P72664"
+    },
+    {
+      "title": "Scale Virtual Try-On: Deliver Thousands of Realistic Fittings in Seconds (Presented by Marvik)",
+      "code": "EXS74108"
+    },
+    {
+      "title": "Scaling Vision LLMs to extract and deploy targeted metadata for Catalog Management",
+      "code": "S73701"
+    },
+    {
+      "title": "Sparse2D-to-3D: High-Fidelity 3D Model Generation From a Few Images With Multi-View Diffusion for Ecommerce",
+      "code": "P74322"
+    },
+    {
+      "title": "Stream Your Immersive Experiences With CloudXR",
+      "code": "CWE72616"
+    },
+    {
+      "title": "The Anti-Portfolio: VCs Share the Startups that Got Away",
+      "code": "DD73697"
+    },
+    {
+      "title": "The Future of Ray Tracing for Real-Time and Production Rendering",
+      "code": "S73725"
+    },
+    {
+      "title": "Toward Rational Drug Design With AlphaFold 3 and Beyond",
+      "code": "S72684"
+    },
+    {
+      "title": "Video Generation Models for Storytelling and World Modeling",
+      "code": "S74625"
+    },
+    {
+      "title": "Watch Party: Accelerated Python: The Community and Ecosystem",
+      "code": "WP72450"
+    },
+    {
+      "title": "Watch Party: \u4f7f\u7528 NVIDIA \u673a\u5668\u4eba\u89e3\u51b3\u65b9\u6848\u52a0\u901f\u7aef\u5230\u7aef\u65e0\u5e8f\u6293\u53d6\u7684\u5f00\u53d1",
+      "code": "WP72427"
+    },
+    {
+      "title": "Watch Party: \u5b9a\u7fa9\u52a0\u901f\u91cf\u5b50\u8d85\u7d1a\u96fb\u8166",
+      "code": "WP74424"
+    },
+    {
+      "title": "Watch Party: \u8cc7\u6599\u4e2d\u5fc3\u7684\u6b21\u4e16\u4ee3\u5927\u898f\u6a21\u904b\u7b97",
+      "code": "WP73623"
+    },
+    {
+      "title": "\u52a0\u901f\u4eff\u771f\uff1aOmniverse SimReady 3D \u8d44\u4ea7\u81ea\u52a8\u5316\u6784\u5efa\u65b9\u6cd5\u7814\u7a76\u4e0e\u5e94\u7528",
+      "code": "S72545"
+    }
+  ],
+  "Industry Applications": [
+    {
+      "title": "4Kp60 Live Video Stream Optimization Running on NVIDIA Holoscan for Media",
+      "code": "P74385"
+    },
+    {
+      "title": "A New Horizon of AI-Driven Autonomous Operations for the Energy Industry",
+      "code": "S72501"
+    },
+    {
+      "title": "Accelerate Energy Transformation With Industry Domain AI Models",
+      "code": "S72520"
+    },
+    {
+      "title": "Accelerate NVIDIA AI Enterprise With Data Intelligence to Achieve Faster Industry Outcomes (Presented by DDN)",
+      "code": "S74353"
+    },
+    {
+      "title": "Accelerating AI from Edge to Cloud: MediaTek\u2019s Leading-Edge Vehicle and Datacenter Solutions (Presented by MediaTek)",
+      "code": "S74504"
+    },
+    {
+      "title": "Accelerating Automotive Transient Aerodynamics CFD Simulation",
+      "code": "S72457"
+    },
+    {
+      "title": "Accelerating Genomic Analysis: Building the Foundation for Next-Generation Genomic Models in Healthcare",
+      "code": "S72432"
+    },
+    {
+      "title": "Accelerating Insights and Efficiencies in Automotive Manufacturing using Immersive Digital Twins",
+      "code": "S73011"
+    },
+    {
+      "title": "Bridging Medical Gaps from Malaria to Cancer: On-Device AI Diagnostic Solutions Powered by NVIDIA Jetson",
+      "code": "P74394"
+    },
+    {
+      "title": "Building Enterprise AI: From Innovation to Production With LTIMindtree's Gen AI Platform Powered by NVIDIA AI Solutions (Presented by LTIMindtree)",
+      "code": "EXS74061"
+    },
+    {
+      "title": "Building an Optimized AI Platform for the Banking Industry",
+      "code": "S72735"
+    },
+    {
+      "title": "DSCA: Dual Structure With Cross-View Attention for Single-View 3D Reconstruction",
+      "code": "P72981"
+    },
+    {
+      "title": "Delivering Real Business Outcomes With AI in Telecom",
+      "code": "S73438"
+    },
+    {
+      "title": "Empower Enterprise AI: On-Premises Solutions With ASUS and APMIC (Presented by ASUSTek)",
+      "code": "S74445"
+    },
+    {
+      "title": "Enabling a Future of Personalized Healthcare: Tackling Data Rates",
+      "code": "S72071"
+    },
+    {
+      "title": "Energy-Efficient Supercomputing Through Tensor Core-Accelerated Mixed-Precision Computing and Floating-Point Emulation",
+      "code": "S71487"
+    },
+    {
+      "title": "Federated Learning in Medical Imaging: Enhancing Data Privacy and Advancing Healthcare",
+      "code": "S73112"
+    },
+    {
+      "title": "Highly Optimized Edge-Compatible Gen AI-Enabled Avatars and NPCs for Education and Entertainment",
+      "code": "S71884"
+    },
+    {
+      "title": "How AI is Fueling Innovation in Automotive Software and Manufacturing",
+      "code": "S74936"
+    },
+    {
+      "title": "Incomplete Modality Federated Learning in Medical Imaging",
+      "code": "P73593"
+    },
+    {
+      "title": "Knowledge Graph Construction and Reuse for Question-Answering and Automated Reporting",
+      "code": "P73603"
+    },
+    {
+      "title": "Mangrove Simulation Predicts Carbon Sequestration Solutions",
+      "code": "P73549"
+    },
+    {
+      "title": "NextStep: Optimizing Healthcare Resource Delivery Using a Multilingual Artificial Intelligence Assistant",
+      "code": "P73601"
+    },
+    {
+      "title": "Powering AI with QCT - Explore the Total Solutions for Tomorrow\u2019s AI-Driven Business (Presented by QCT)",
+      "code": "S74064"
+    },
+    {
+      "title": "RTeachBot: Transforming Health Education in Radiation Oncology",
+      "code": "P73437"
+    },
+    {
+      "title": "Revolutionizing Healthcare: A Healthcare Language Model for Enhanced Accuracy in Medical Code Extraction (Presented by Cognizant)",
+      "code": "S74228"
+    },
+    {
+      "title": "Revolutionizing the Customer Experience in Banking With LLMs",
+      "code": "S73750"
+    },
+    {
+      "title": "Think Fast! Accelerate Your Game Services",
+      "code": "S74406"
+    },
+    {
+      "title": "Watch Party: Accelerate Energy Transformation With Industry Domain AI Models",
+      "code": "WP72520"
+    }
+  ],
+  "Hardware & Infrastructure": [
+    {
+      "title": "A Deep Dive Into the Future of Liquid-Cooled AI Data Centers (Presented by Supermicro)",
+      "code": "S74305"
+    },
+    {
+      "title": "AI Inferencing using NIM with Serverless GPUs (Presented by Microsoft)",
+      "code": "S74603"
+    },
+    {
+      "title": "AI-Driven Data Centers: Optimizing Total AI Solutions in the AI Age With Ubitus (Presented by ASUSTek Computer Inc.)",
+      "code": "S74184"
+    },
+    {
+      "title": "AI-Ready Data Centers: Integrated and Intelligent for High-Performance Workloads (Presented by Schneider Electric)",
+      "code": "S74468"
+    },
+    {
+      "title": "Accelerate Apache Spark With GPUs",
+      "code": "CWE71722"
+    },
+    {
+      "title": "Accelerate Clustering Algorithms to Achieve the Highest Performance",
+      "code": "DLIT74335"
+    },
+    {
+      "title": "Accelerate Data Analytics on GPUs With the RAPIDS Accelerator for Apache Spark",
+      "code": "DLIT71528"
+    },
+    {
+      "title": "Accelerate Data Intelligence with GPUs and RAPIDS on Databricks",
+      "code": "S73654"
+    },
+    {
+      "title": "Accelerate Enterprise AI Applications with NVIDIA AI Enterprise and NVIDIA DGX Cloud on Oracle Cloud Infrastructure (Presented by Oracle)",
+      "code": "S74279"
+    },
+    {
+      "title": "Accelerate High-Performance Signal Processing Using GPU/CUDA",
+      "code": "S71459"
+    },
+    {
+      "title": "Accelerating 4D Flow MRI Reconstruction Using GPU",
+      "code": "P73495"
+    },
+    {
+      "title": "Accelerating AI: Memory's Impact on GPUs (Presented by Samsung Semiconductor)",
+      "code": "S74571"
+    },
+    {
+      "title": "Accelerating Data Analytics Workflows on GPU Systems",
+      "code": "CWE72882"
+    },
+    {
+      "title": "Accelerating Genome-Wide Association Studies Using Mixed-Precision Computations on Alps Supercomputer",
+      "code": "S72297"
+    },
+    {
+      "title": "Accelerating Quantum Research on GPUs",
+      "code": "P73517"
+    },
+    {
+      "title": "Accelerating ROS 2 Workloads With NVIDIA GPU-Powered Libraries and AI Models",
+      "code": "DLIT71433"
+    },
+    {
+      "title": "Accelerating Radiation Therapy Planning With Faster Beamlet Dose Calculations Using GPU Technology",
+      "code": "P73297"
+    },
+    {
+      "title": "Adaptive Distribution Generator: Powering Split-Step Quantum Walks with CUDA-Q",
+      "code": "P72789"
+    },
+    {
+      "title": "Advanced Multi-GPU Scaling: Communication Libraries",
+      "code": "S72578"
+    },
+    {
+      "title": "Advancing Data Center Infrastructure to Support High-Density AI Requirements (Presented by EdgeConneX)",
+      "code": "S74197"
+    },
+    {
+      "title": "Application Optimization for NVIDIA Grace CPU",
+      "code": "S72978"
+    },
+    {
+      "title": "Application Optimization for NVIDIA Grace CPU: Q&A From the EMEA Region",
+      "code": "S72978a"
+    },
+    {
+      "title": "Best Practices in Feature Engineering for Tabular Data With GPU Acceleration",
+      "code": "DLIT73713"
+    },
+    {
+      "title": "Beyond Visualization: Empowering Interior Designers With Streamlined Workflows and Accurate Cost Estimation",
+      "code": "P73479"
+    },
+    {
+      "title": "Blackwell TensorCore and Memory Subsystem Optimizations for Applications",
+      "code": "CWE72552"
+    },
+    {
+      "title": "Break Free from Closed Models: Unlock the Power of Open Source Now (Presented by Meta)",
+      "code": "S74485"
+    },
+    {
+      "title": "Bridging Performance and Flexibility in Network Architecture",
+      "code": "S73339"
+    },
+    {
+      "title": "Bring Massive-Scale Vector Search to the GPU with Apache Lucene",
+      "code": "S71286"
+    },
+    {
+      "title": "Build a Customizable HPC Platform With Enhanced GPU Fault Tolerance",
+      "code": "S72096"
+    },
+    {
+      "title": "Building Semantic Search and Data Mining Applications With GPU-Accelerated Vector Search",
+      "code": "CWE71289"
+    },
+    {
+      "title": "ByteQC: Large-Scale Quantum Chemistry Package Accelerated by GPUs",
+      "code": "P74380"
+    },
+    {
+      "title": "CUDA Techniques to Maximize Compute and Instruction Throughput",
+      "code": "S72685"
+    },
+    {
+      "title": "CUDA Techniques to Maximize Memory Bandwidth and Hide Latency",
+      "code": "S72683"
+    },
+    {
+      "title": "Coldplate Requirements for Direct Liquid Cooling of AI Processors (Presented by CoolIT Systems)",
+      "code": "S74262"
+    },
+    {
+      "title": "Compression and Decompression on GPUs: nvCOMP and the Blackwell Decompress Engine",
+      "code": "CWE72611"
+    },
+    {
+      "title": "Computer Animation Festival - The Electronic Theater \u2013 SIGGRAPH Asia 2024",
+      "code": "SE4782"
+    },
+    {
+      "title": "Create your own End-to-End Data Flywheel on NVIDIA DGX Cloud",
+      "code": "S72871"
+    },
+    {
+      "title": "DGX Cloud Deep Dive",
+      "code": "CWE72870"
+    },
+    {
+      "title": "DGX Spark: Your Personal AI Supercomputer",
+      "code": "S74680"
+    },
+    {
+      "title": "Data Center GPU Cluster Monitoring and Diagnostics",
+      "code": "CWE73272"
+    },
+    {
+      "title": "Data Center Operators Must Lower Risk As GPU Costs Rise: Future-Proof Your Data Center (Presented by DDC Solutions)",
+      "code": "EXS74443"
+    },
+    {
+      "title": "Data Center Operators Must Lower Risk as GPU Costs Rise: Future-Proof Your Data Center (Presented by DDC Solutions)",
+      "code": "S74444"
+    },
+    {
+      "title": "Data Center Vision 2030: How Data Center Infrastructure Will Evolve to Support AI and Accelerated Compute. (Presented by Vertiv)",
+      "code": "S74239"
+    },
+    {
+      "title": "Deep Dive Into GPU-Accelerated Visual Data Preprocessing Using NVIDIA Libraries/SDKs",
+      "code": "CWE72379"
+    },
+    {
+      "title": "Defining the Accelerated Quantum Supercomputer",
+      "code": "S74424"
+    },
+    {
+      "title": "Delta\u2019s Grid-to-Chip Power Solutions for Gigawatt-Scale AI Data Centers (Presented by Delta Electronics)",
+      "code": "S73978"
+    },
+    {
+      "title": "Deploy AI and HPC on NVIDIA GPUs With Google Hypercompute Clusters (Presented by Google Cloud)",
+      "code": "S74318"
+    },
+    {
+      "title": "Deploy and Leverage NVIDIA Grace Blackwell and Grace Hopper in Your Data Center",
+      "code": "CWE74386"
+    },
+    {
+      "title": "Deploy and Manage Your Cluster the Easy Way With Base Command Manager",
+      "code": "CWE73389"
+    },
+    {
+      "title": "Direct Liquid Cooling for AI Systems: Design Requirements from the Processor to the Data Center (Presented by CoolIT Systems)",
+      "code": "S74213"
+    },
+    {
+      "title": "EY Voice: Artificial Intelligence-powered Contact Centers (Presented by EY)",
+      "code": "S74622"
+    },
+    {
+      "title": "Electric Vehicle Recharge Scheduling on GPUs",
+      "code": "P71608"
+    },
+    {
+      "title": "Enabling the Agent-First Future: Advancing Test-Time Search and Compute Infrastructure for Agentic Systems (Presented by Nebius)",
+      "code": "S74365"
+    },
+    {
+      "title": "Energy and Shared Memory Contention-Aware Execution of DNN Inference on Multi-Accelerator Heterogeneous SoCs",
+      "code": "P73492"
+    },
+    {
+      "title": "Enhance Geomechanics Simulation Performance With NVIDIA Grace CPU",
+      "code": "P74405"
+    },
+    {
+      "title": "Everything DGX!",
+      "code": "CWE72415"
+    },
+    {
+      "title": "Everything You Want to Ask About NVIDIA Enterprise Reference Architectures",
+      "code": "CWE74549"
+    },
+    {
+      "title": "Everything You Want to Ask About the NVIDIA Cloud Partner Reference Architectures",
+      "code": "CWE73401"
+    },
+    {
+      "title": "Evolving Cooling Needs for High-Density Data Centers (Presented by Schneider Electric)",
+      "code": "EXS74466"
+    },
+    {
+      "title": "Faster Triton Kernels on NVIDIA Ampere and Hopper",
+      "code": "P72750"
+    },
+    {
+      "title": "Fine-Grained GPU Partitioning for Higher Performance and Energy Efficiency",
+      "code": "P73590"
+    },
+    {
+      "title": "FlexAttention: The Flexibility of PyTorch With the Performance of FlashAttention",
+      "code": "S72236"
+    },
+    {
+      "title": "Fortran Standard Parallelism on Grace Hopper With Unified Memory",
+      "code": "P72780"
+    },
+    {
+      "title": "From Design to Operations: Optimize Data Center Energy and Water Efficiency",
+      "code": "S73167"
+    },
+    {
+      "title": "From Design to Operations: Optimize Data Center Energy and Water Efficiency: Q&A From the EMEA Region",
+      "code": "S73167a"
+    },
+    {
+      "title": "GIGABYTE Green Data Center Solution (Presented by Giga Computing)",
+      "code": "S74449"
+    },
+    {
+      "title": "GIGAPOD: Redefining the Future Data Center by Scaling Beyond Servers and Software Stack (Presented by Giga Computing)",
+      "code": "S74201"
+    },
+    {
+      "title": "GPU DiskANN and Beyond: Accelerating Microsoft Vector Search with NVIDIA cuVS",
+      "code": "S72905"
+    },
+    {
+      "title": "GPU Performance in XR",
+      "code": "D7009"
+    },
+    {
+      "title": "GPU \u52a0\u901f\u751f\u547d\u79d1\u5b66\u884c\u4e1a\u667a\u80fd\u5316",
+      "code": "S71836"
+    },
+    {
+      "title": "GPU-Accelerated HNSW Index Building for Databases",
+      "code": "S71675"
+    },
+    {
+      "title": "GPU-Accelerated Mixed-Precision Spatial Statistics for Efficient Climate/Weather Modeling and Emulation",
+      "code": "S72300"
+    },
+    {
+      "title": "GPU-Accelerated Semiconductor Process Simulations: From Atom to Transistor",
+      "code": "S73203"
+    },
+    {
+      "title": "GPU-Based Monte Carlo Simulation of Light Transport in Tissue: A Chapel Implementation",
+      "code": "P73583"
+    },
+    {
+      "title": "GPU-Powered Neural Depth and Point Cloud Filtering for Efficient Corridor Detection in Robotics",
+      "code": "P73591"
+    },
+    {
+      "title": "Get hard to find GPUs at lower costs through NVIDIA DGX Cloud and Lighting AI Studio (Presented by Lightning AI)",
+      "code": "S74432"
+    },
+    {
+      "title": "Get the Most Performance From Grace Hopper",
+      "code": "S72687"
+    },
+    {
+      "title": "Getting Started with Multi-GPU Scaling: Distributed Libraries",
+      "code": "S72576"
+    },
+    {
+      "title": "Going Deeper with Multi-GPU Scaling: Task-based Runtimes",
+      "code": "S72579"
+    },
+    {
+      "title": "Hardware-Aware Algorithms for Sequence Modeling",
+      "code": "S72274"
+    },
+    {
+      "title": "High-Bandwidth Memory: Backbone of High Performance Computing and AI (Presented by SK hynix)",
+      "code": "S73974"
+    },
+    {
+      "title": "How Leading AI Labs Maximize Performance in GPU Clusters (Presented by CoreWeave)",
+      "code": "S74216"
+    },
+    {
+      "title": "How Math Libraries Can Help Accelerate Your Applications on Blackwell GPUs",
+      "code": "S72434"
+    },
+    {
+      "title": "How Nasdaq is Redefining Markets with Accelerated Compute",
+      "code": "S73059"
+    },
+    {
+      "title": "How to Ace a Finance Developer Interview: A Deep Dive into GPU Matrix Optimization",
+      "code": "S73619"
+    },
+    {
+      "title": "How to Run and Optimize Your Workloads on the NVIDIA Grace CPU",
+      "code": "CWE73338"
+    },
+    {
+      "title": "How to Use NVIDIA Omniverse\u2122 on Smart Factory Design: The Fii Omniverse Digital Twin Project on NVIDIA GB200 Grace\u2122 Blackwell Superchip Production Line (Presented by Foxconn)",
+      "code": "S74429"
+    },
+    {
+      "title": "Hybrid Parallel Quantum Chemistry Simulation for Large-Scale GPU Clusters",
+      "code": "P73003"
+    },
+    {
+      "title": "Impacts of Introducing Liquid Cooling into Data Center Infrastructure (Presented by EdgeConneX)",
+      "code": "EXS74208"
+    },
+    {
+      "title": "Implement Accelerated PDE-Based Time-History Simulation by Data-Driven Methods on Strongly Coupled CPU-GPU systems",
+      "code": "S72925"
+    },
+    {
+      "title": "Introduction to the Construction of Liquid-Cooling AIDC Based on NVIDIA B200 (Presented by Aivres)",
+      "code": "S74278"
+    },
+    {
+      "title": "Kernel Optimization for AI and Beyond: Unlocking the Power of Nsight Compute",
+      "code": "DLIT71640"
+    },
+    {
+      "title": "Large Dataset Provisioning With NVMe HDDs for GPU Direct Consumption (Presented by Seagate Technology)",
+      "code": "S74562"
+    },
+    {
+      "title": "Liquid Cooling Impact to Backend Network Design (Presented by Credo)",
+      "code": "S74627"
+    },
+    {
+      "title": "Low-Latency Numerical Computing With MatX",
+      "code": "DLIT71426"
+    },
+    {
+      "title": "Mastering NVIDIA Nsight: GPU Performance Analysis for Ray Tracing Applications",
+      "code": "DLIT72423"
+    },
+    {
+      "title": "Maximize AI Potential: Unlock Idle GPU Compute and Collaborate Smarter with Z by HP (Presented by HP)",
+      "code": "S74464"
+    },
+    {
+      "title": "Maximize GPU Utilization With Dynamic GPU Allocation (Presented by Ori Industries)",
+      "code": "EXS74203"
+    },
+    {
+      "title": "Maximize Your AI Performance and Scale With Oracle Cloud Infrastructure (Presented by Oracle)",
+      "code": "S74280"
+    },
+    {
+      "title": "NCCL: The Inter-GPU Communication Library Powering Multi-GPU AI",
+      "code": "S72583"
+    },
+    {
+      "title": "NVIDIA GPU \u30af\u30e9\u30a6\u30c9\u3092\u4f7f\u3063\u305f API \u30a2\u30af\u30bb\u30b9\u306b\u3088\u308b\u9ad8\u901f\u30a2\u30d7\u30ea\u958b\u767a",
+      "code": "S73913"
+    },
+    {
+      "title": "NVIDIA MGX Architecture for AI Infrastructure",
+      "code": "CWE73408"
+    },
+    {
+      "title": "NVIDIA NIM and GPUs With Kubernetes",
+      "code": "CWE72613"
+    },
+    {
+      "title": "NVIDIA Video Technologies in Blackwell",
+      "code": "CWE73720"
+    },
+    {
+      "title": "NVIDIA and Samsung's AI Memory: Enabling Advancements in High-Performance Computing and Gaming (Presented by Samsung Semiconductor)",
+      "code": "S74615"
+    },
+    {
+      "title": "Next-Gen Data Centers: Intelligent Automation and Integrated Observability for Peak Developer Productivity",
+      "code": "S72361"
+    },
+    {
+      "title": "Next-generation at Scale Compute in the Data Center",
+      "code": "S73623"
+    },
+    {
+      "title": "Nsight Analysis System: Build Custom Python Analysis Scripts to Summarize Performance and Reveal Bottlenecks With Single- and Multi-Node Applications",
+      "code": "DLIT74509"
+    },
+    {
+      "title": "Open and Module Design for GPU Server (Presented by MiTAC)",
+      "code": "EXS74178"
+    },
+    {
+      "title": "Optimize Large-Scale Models for Restricting Hardware Environments",
+      "code": "P74481"
+    },
+    {
+      "title": "Optimize Your Workloads for Rack-Scale Interconnected GPU systems",
+      "code": "S73037"
+    },
+    {
+      "title": "Optimizing Multi-Language Scientific Simulations: A Grace Superchip Case Study",
+      "code": "S72537"
+    },
+    {
+      "title": "Paving the Way for Data Center Networking With Zero-Tail Latency",
+      "code": "CWE71413"
+    },
+    {
+      "title": "Pegatron\u2019s Innovative High-Density GPU Rack Solution With NVIDIA Platform (Presented by Pegatron)",
+      "code": "EXS74285"
+    },
+    {
+      "title": "Performance Analysis and Optimization",
+      "code": "CWE72456"
+    },
+    {
+      "title": "Performance Tuning of LLMs for Scalable GPU Confidential Computing",
+      "code": "P73618"
+    },
+    {
+      "title": "Power Sustainable AI Clouds With Advanced Networking",
+      "code": "S74316"
+    },
+    {
+      "title": "Powering the AI Revolution \u2013 Innovating and Accelerating Critical Physical Infrastructure for AI Factories (Presented by Vertiv)",
+      "code": "S74243"
+    },
+    {
+      "title": "Preparing for the Future: Automotive Memory and Storage Requirements (Presented by SK hynix)",
+      "code": "S74033"
+    },
+    {
+      "title": "Programming Blackwell Tensor Cores with CUTLASS",
+      "code": "S72720"
+    },
+    {
+      "title": "RWKV-6 and RWKV-7: Next-Gen Model Architecture",
+      "code": "P72335"
+    },
+    {
+      "title": "Rack-Scale to Data Center-Scale AI Building Block Solutions (Presented by Supermicro)",
+      "code": "S74306"
+    },
+    {
+      "title": "Revolutionize AI Infrastructure With ASUS AI POD and Advanced Liquid Cooling (Presented by ASUSTek Computer Inc.)",
+      "code": "S74192"
+    },
+    {
+      "title": "Revolutionize Enterprise and Data Center AI with Advanced GPU Server Solutions (Presented by Pegatron)",
+      "code": "S74282"
+    },
+    {
+      "title": "Revolutionizing Semiconductor Manufacturing and Materials Engineering with GPU-Enhanced Computational Lithography and Atomistic Modeling (Presented by Synopsys)",
+      "code": "S74636"
+    },
+    {
+      "title": "Scale Up Your Data Processing on Apache Spark with Blackwell GPUs",
+      "code": "S71503"
+    },
+    {
+      "title": "Scaling AI: Next-Generation Data Center Innovations for High-Performance AI Workloads (Presented by Northern Data Group)",
+      "code": "S74261"
+    },
+    {
+      "title": "Scaling Levenberg-Marquardt Optimizer on Multiple GPUs",
+      "code": "P73527"
+    },
+    {
+      "title": "Secure Critical Infrastructure With AI-Powered Cyber Defense",
+      "code": "S73907"
+    },
+    {
+      "title": "Simulating Trillion-Particle Fluid Systems on an NVIDIA A100-Powered Supercomputer",
+      "code": "P73536"
+    },
+    {
+      "title": "Software-Defined Enterprise Powered by HCLTech SmartTwin (Presented by HCLTech)",
+      "code": "S74283"
+    },
+    {
+      "title": "Spectrum-X & H200\u3067\u69cb\u7bc9\u3057\u305fGPU\u30af\u30e9\u30a6\u30c9\u30b5\u30fc\u30d3\u30b9\u958b\u767a\u306e\u6700\u524d\u7dda",
+      "code": "S73890"
+    },
+    {
+      "title": "Speed-of-Light Data Movement Between Storage and the GPU",
+      "code": "S73012"
+    },
+    {
+      "title": "The Next Reasoning Benchmark",
+      "code": "S72934"
+    },
+    {
+      "title": "The Performance of CUDA with the Flexibility of PyTorch",
+      "code": "S71946"
+    },
+    {
+      "title": "Toward Better Compute-Memory Balance in GPU-Enabled Density-Based CFD Solvers",
+      "code": "P73604"
+    },
+    {
+      "title": "Transform Cloud Infrastructure for Hyperscale AI With Accelerated Networking",
+      "code": "S74312"
+    },
+    {
+      "title": "Transform Data Center Architecture With Micron\u2019s AI Memory and Storage Portfolio (Presented by Micron Technology)",
+      "code": "S74473"
+    },
+    {
+      "title": "Tree Attention: Scalable Long-Context Transformer Decoding on GPU Clusters",
+      "code": "P73607"
+    },
+    {
+      "title": "Turbocharge Numerical Computing on GPU and CPU in C++",
+      "code": "CWE72491"
+    },
+    {
+      "title": "Unlock Deep Learning Performance on Blackwell With cuDNN",
+      "code": "S73071"
+    },
+    {
+      "title": "Unlock the Future of Data Security with GPU-Powered Pipelines",
+      "code": "S71358"
+    },
+    {
+      "title": "Unlock the Power of NVIDIA Certified Systems: Live Q&A With Experts",
+      "code": "CWE74649"
+    },
+    {
+      "title": "Unlocking the Future of LLMs: High-Efficiency xLSTM Architectures for Scalable Performance",
+      "code": "S71812"
+    },
+    {
+      "title": "Use GPUs to Accelerate Vector Databases",
+      "code": "DLIT71710"
+    },
+    {
+      "title": "Visualizing California's Infrastructure with Caltrans' State-Scale Digital Twins",
+      "code": "S72968"
+    },
+    {
+      "title": "Watch Party: \u6578\u5b78\u51fd\u5f0f\u5eab\u5982\u4f55\u5354\u52a9\u60a8\u5728 Blackwell GPU \u4e0a\u52a0\u5feb\u61c9\u7528\u7a0b\u5f0f\u901f\u5ea6",
+      "code": "WP72434"
+    },
+    {
+      "title": "Wired for AI: Lessons from Networking 100K+ GPU AI Data Centers and Clouds",
+      "code": "S71145"
+    },
+    {
+      "title": "Workflow for Practical Quantum Chemical Calculations on a Quantum Computer With GPGPU",
+      "code": "P72714"
+    },
+    {
+      "title": "cuKAN: GPU-Accelerated Kolmogorov-Arnold Networks",
+      "code": "P74384"
+    },
+    {
+      "title": "cuTENSOR Optimizations for Quantum Circuit Simulation Using Tensor Network on Grace Hopper",
+      "code": "P74382"
+    },
+    {
+      "title": "\u5728 GPU \u4e0a\u52a0\u901f\u57fa\u4e8e\u4f4d\u56fe\u7684\u96c6\u5408\u64cd\u4f5c",
+      "code": "S72470"
+    },
+    {
+      "title": "\u4f7f\u7528 GPU \u52a0\u901f\u56fe\u50cf\u89c6\u9891\u5904\u7406\u65b9\u6cd5\u7684\u6f14\u8fdb",
+      "code": "S72031"
+    },
+    {
+      "title": "\u91ca\u653e GPU \u7f13\u5b58\u7684\u5f3a\u5927\u5a01\u80fd\uff1a\u95ea\u7535\u52a0\u901f\u77ed\u89c6\u9891\u63a8\u8350\u7cfb\u7edf\uff01",
+      "code": "S72672"
+    },
+    {
+      "title": "\u52a0\u901f\u6307\u6807\u8ba1\u7b97\uff1aCPU/GPU \u5f02\u6784\u5b9e\u65f6\u8ba1\u7b97\u5e73\u53f0",
+      "code": "S71579"
+    }
+  ],
+  "Software & Development": [
+    {
+      "title": "A Deep Dive Into the Latest HPC Software",
+      "code": "S71350"
+    },
+    {
+      "title": "A Platform Engineering Approach to Composable AI-Native Applications (Presented by Vultr)",
+      "code": "S74292"
+    },
+    {
+      "title": "AI on Location: Deploying Mobile Private Networks and Edge Compute for Next Gen Content Pipelines",
+      "code": "S72513"
+    },
+    {
+      "title": "AI-Assisted Software Tool Support for C++ HPC Applications on NVIDIA GPUs",
+      "code": "P73609"
+    },
+    {
+      "title": "Accelerate Distributed Apache Spark Applications on Kubernetes With RAPIDS",
+      "code": "S72008"
+    },
+    {
+      "title": "Accelerate Drug Discovery for Amyotrophic Lateral Sclerosis Using BioNeMo Framework",
+      "code": "P74370"
+    },
+    {
+      "title": "Accelerate Fortran and C/C++ Code With NVIDIA HPC Compilers",
+      "code": "CWE74521"
+    },
+    {
+      "title": "Accelerate Model Development and Deployment for Drug Discovery and Life Sciences: Q&A From the EMEA Region",
+      "code": "S73097a"
+    },
+    {
+      "title": "Accelerate Physical AI Development Workflows with Omniverse Cloud Sensor RTX",
+      "code": "DLIT74496"
+    },
+    {
+      "title": "Accelerate Robotics Development With Digital Twins: Strategic Insights for Innovators",
+      "code": "S73891"
+    },
+    {
+      "title": "Accelerate Science With NVIDIA HPC Compilers",
+      "code": "S74505"
+    },
+    {
+      "title": "Accelerated Tabular Processing with Polars & RAPIDS",
+      "code": "S74362"
+    },
+    {
+      "title": "Accelerating End-to-End CAE Workflows: Cloud-Native and On-Premises",
+      "code": "S73002"
+    },
+    {
+      "title": "Accelerating Model Development and Deployment for Drug Discovery and Life Sciences",
+      "code": "S73097"
+    },
+    {
+      "title": "Advance Surgical Imaging: Explore Software-Defined Video Pipelines for Enhanced Flexibility and AI Integration",
+      "code": "S74534"
+    },
+    {
+      "title": "Advancing AV Development With Sensor Simulation and Cosmos",
+      "code": "DD40002"
+    },
+    {
+      "title": "Advancing GPU as a Service: Build a New Serverless Platform for AI-Native Cloud Applications (Presented by Vultr)",
+      "code": "S74289"
+    },
+    {
+      "title": "Advancing Transaction Fraud Detection in Financial Services With NVIDIA RAPIDS on AWS",
+      "code": "S72625"
+    },
+    {
+      "title": "Agentic Architecture and Digital Human Capabilities for Complex Customer Support",
+      "code": "S72752"
+    },
+    {
+      "title": "Aivres DevOps AI Platform: End-to-End AI Infra. Solution (Presented by Aivres)",
+      "code": "S74274"
+    },
+    {
+      "title": "Autonomous Vehicle Development With NVIDIA Platforms",
+      "code": "CWE73325"
+    },
+    {
+      "title": "Branch Support 3.0: How Digital Humans are Revolutionizing RBC's Branch Experience",
+      "code": "S72693"
+    },
+    {
+      "title": "Build CUDA Software at the Speed of Light",
+      "code": "S72574"
+    },
+    {
+      "title": "Build Lightning-Fast Data Science Pipelines in Industry With Accelerated Computing",
+      "code": "S74334"
+    },
+    {
+      "title": "Build your next Vision AI application for Physical AI on a Digital Twin",
+      "code": "S72902"
+    },
+    {
+      "title": "CUDA Developer Best Practices",
+      "code": "CWE72433"
+    },
+    {
+      "title": "CUDA Techniques to Maximize Concurrency and System Utilization",
+      "code": "S72686"
+    },
+    {
+      "title": "CUDA on Microsoft Windows and WSL",
+      "code": "CWE74590"
+    },
+    {
+      "title": "CUDA: New Features and Beyond",
+      "code": "S72383"
+    },
+    {
+      "title": "Compound Recommendation and Generation Framework for Flame-Retardant Additives in Batteries via MegaMolBART",
+      "code": "P73605"
+    },
+    {
+      "title": "Connect With IGX and Jetson Hardware/Software Experts on IPC and Embedded Applications",
+      "code": "CWE73454"
+    },
+    {
+      "title": "Connecting NIM to Uncompressed Audio/Video Pipelines With Holoscan for Media",
+      "code": "S72563"
+    },
+    {
+      "title": "Create Multilingual 2D Digital Humans for Enterprise",
+      "code": "S72370"
+    },
+    {
+      "title": "DevOps for Gen AI App Development: Build Scalable and Reproducible LLMOps Pipelines",
+      "code": "DLIT71682"
+    },
+    {
+      "title": "Developing Industrial Digital Twins Applications for Apple Vision Pro",
+      "code": "DLIT71325"
+    },
+    {
+      "title": "Developing Physics ML Models for Engineering and Science Applications",
+      "code": "CWE73647"
+    },
+    {
+      "title": "Digital Material Capture for a Lived-In Universe (Presented by HP)",
+      "code": "S74472"
+    },
+    {
+      "title": "Digital Twins to Human-Centric Knowledge: An Integrated System for Manufacturing Expertise",
+      "code": "P74512"
+    },
+    {
+      "title": "Driving 6G Development With Advanced Simulation Tools",
+      "code": "S72994"
+    },
+    {
+      "title": "Enable AI-Native Networking for Telcos with Kubernetes",
+      "code": "S72993"
+    },
+    {
+      "title": "Enable Tensor Core Programming in Python with CUTLASS 4.0",
+      "code": "S74639"
+    },
+    {
+      "title": "Enhancing Radiopharmaceutical Decision Support with Telix\u2019s AutoML and CDSS Platform",
+      "code": "P74389"
+    },
+    {
+      "title": "Enterprise MLOps 101",
+      "code": "S71732"
+    },
+    {
+      "title": "Explore AI-Assisted Developer Tools for Accelerated Computing Application Development",
+      "code": "S72435"
+    },
+    {
+      "title": "Exploring Earth\u2019s Oceans: Using Digital Twins to Drive Digital Ocean Collaboration",
+      "code": "S73656"
+    },
+    {
+      "title": "Field Notes on Scaling Real-Time AI-Native Applications in Production (Presented by Baseten)",
+      "code": "EXS74242"
+    },
+    {
+      "title": "Founder Frameworks: Seven Lessons Learned",
+      "code": "DD73696"
+    },
+    {
+      "title": "Full-stack NVIDIA GB200 Solution for New Gen-AI (Presented by Aivres)",
+      "code": "S74277"
+    },
+    {
+      "title": "Fundamentals of Accelerated Computing With Modern CUDA C++",
+      "code": "DLIW73642"
+    },
+    {
+      "title": "HCLTech\u2019s GenAI platform \u2013 AI Force accelerates software engineering and IT operations life cycle with NVIDIA AI Enterprise (Presented by HCLTech)",
+      "code": "EXS73952"
+    },
+    {
+      "title": "Hands-on with Next Generation Digital Human Blueprint",
+      "code": "DLIT72360"
+    },
+    {
+      "title": "Healthcare Reimagined: Coding the Future of Medicine Through Digital Acceleration",
+      "code": "S72847"
+    },
+    {
+      "title": "How To Write A CUDA Program: The Parallel Programming Edition",
+      "code": "S72897"
+    },
+    {
+      "title": "How You Should Write a CUDA C++ Kernel",
+      "code": "S72575"
+    },
+    {
+      "title": "How Yum! Brands Serves Up Digital Innovation",
+      "code": "S72790"
+    },
+    {
+      "title": "How can OpenShift AI and NVIDIA NIM Help You Accelerate and Optimize GenAI Application Development",
+      "code": "S71729"
+    },
+    {
+      "title": "How to Accelerate GenAI application development process with W&B Weave and NVIDIA (Presented by Weights & Biases)",
+      "code": "EXS74222"
+    },
+    {
+      "title": "How to Not Fail: Simplify AI Deployment and Accelerate Time to Production with AI Platforms Built with NVIDIA AI",
+      "code": "S73185"
+    },
+    {
+      "title": "Insights Into Disney\u2019s Robotic Character Platform",
+      "code": "S72595"
+    },
+    {
+      "title": "It\u2019s Easier than You Think \u2013 Debugging and Optimizing CUDA with Intelligent Developer Tools",
+      "code": "S72527"
+    },
+    {
+      "title": "KitLLM: Automated Code Generation LLM for Omniverse Kit Extension Development",
+      "code": "P72560"
+    },
+    {
+      "title": "Learn how Gen AI Image Pipelines are Shaping up in Various industries With Hands-on Workflows",
+      "code": "DLIT71866"
+    },
+    {
+      "title": "MLOps Best Practices at NVIDIA",
+      "code": "CWE73900"
+    },
+    {
+      "title": "Manifesting Physical AI in Industrial Applications (Presented by Hitachi Digital)",
+      "code": "S74264"
+    },
+    {
+      "title": "MedTech: From Medical Imaging to Digital Surgery",
+      "code": "CWE71530"
+    },
+    {
+      "title": "Membrane Pseudo-Bacterial Potential Field for Mobile Robot Path Planning",
+      "code": "P72946"
+    },
+    {
+      "title": "NVIDIA MGX Platform: Optimizations with Astera Labs Scorpio Smart Fabric Switch (Presented by Astera Labs)",
+      "code": "S74256"
+    },
+    {
+      "title": "NVIDIA MedTech Developer Day",
+      "code": "DD73322"
+    },
+    {
+      "title": "NVIDIA Quantum Developer Day",
+      "code": "DD73669"
+    },
+    {
+      "title": "Next Wave Innovations: Startups Shaping Tomorrow's Technology",
+      "code": "SE72496"
+    },
+    {
+      "title": "Optimizing Vector Search for Scalable AI Native Applications using open source software",
+      "code": "S71356"
+    },
+    {
+      "title": "Orion: Fuzzing Workflow Automation",
+      "code": "P74387"
+    },
+    {
+      "title": "Overcome Challenges in Multi-Agentic AI Application Development With an AI Data Platform (Presented by Couchbase)",
+      "code": "S74348"
+    },
+    {
+      "title": "Photorealistic Digital Twin at Scale in Product Design",
+      "code": "S73051"
+    },
+    {
+      "title": "Profiling Hybrid CUDA/Graphics Applications using Nsight Graphics",
+      "code": "S73224"
+    },
+    {
+      "title": "Pushing Spectral Efficiency Limits on CUDA-accelerated 5G/6G RAN",
+      "code": "S72990"
+    },
+    {
+      "title": "RAPIDS in 2025: Accelerated Data Science Everywhere",
+      "code": "S73290"
+    },
+    {
+      "title": "Rapid Application Development Using Large Language Models (LLMs)",
+      "code": "DLIW73637"
+    },
+    {
+      "title": "RapidDock: Unlock Proteome-Scale Molecular Docking",
+      "code": "P74400"
+    },
+    {
+      "title": "Reduce Fraud and Financial Crime With Featurespace ARIC Risk Hub on AWS (Presented by Amazon Web Services)",
+      "code": "S74269"
+    },
+    {
+      "title": "Refreshing Manufacturing Operations at Coca-Cola Consolidated With Digital Twins",
+      "code": "S73008"
+    },
+    {
+      "title": "Robotics Simulation and Synthetic Data Generation for Accelerating Robotics Development Workflows",
+      "code": "CWE72522"
+    },
+    {
+      "title": "Scalable Drug Discovery Pipelines With Kubernetes Operators and BioNemo NIMs",
+      "code": "S71237"
+    },
+    {
+      "title": "Shaping the Future of Digital Health",
+      "code": "S73465"
+    },
+    {
+      "title": "Stream Real-Time Digital Twins in AR",
+      "code": "D7008"
+    },
+    {
+      "title": "The CUDA C++ Developer\u2019s Toolbox",
+      "code": "S72572"
+    },
+    {
+      "title": "The CUDA Python Developer\u2019s Toolbox",
+      "code": "S72448"
+    },
+    {
+      "title": "The Edge AI Application Development Ecosystem (Presented by EDOM Technology)",
+      "code": "S74447"
+    },
+    {
+      "title": "The Future of Marketing: Unilever\u2019s Innovative Approach with Digital Twins",
+      "code": "S71412"
+    },
+    {
+      "title": "The Hidden Driver of Autonomy: Why Remote Driving is Indispensable",
+      "code": "S71851"
+    },
+    {
+      "title": "Toward a Comprehensive Framework for Evaluating LLMs in Clinical Applications",
+      "code": "S72020"
+    },
+    {
+      "title": "Transform Patient Care with Digital Twins and Nursing Collaborative Robots (Presented by Foxconn)",
+      "code": "S74078"
+    },
+    {
+      "title": "Turbocharge Cloud-Native AI Workloads With DPU-Accelerated Service Proxy for Kubernetes",
+      "code": "S72237"
+    },
+    {
+      "title": "Turn Data Into Decisions: Revolutionize Your AI Pipeline With Dell\u2019s AI Data Platform (Presented by Dell Technologies)",
+      "code": "S74298"
+    },
+    {
+      "title": "Unlocking Next-Level Efficiency with Accelerated Computing and Optimized Solvers (Presented by Hitachi Digital)",
+      "code": "EXS74248"
+    },
+    {
+      "title": "Using NVIDIA CUDA Compiler Tool Chain for Productive GPGPU Programming",
+      "code": "CWE73310"
+    },
+    {
+      "title": "Using Video Codecs in Blackwell for Transcoding and Other Video Processing Applications",
+      "code": "S72756"
+    },
+    {
+      "title": "Venture Capital Reverse Pitches",
+      "code": "S73503"
+    },
+    {
+      "title": "Watch Party: CUDA: New Features and Beyond",
+      "code": "WP72383"
+    },
+    {
+      "title": "What's CUDA All About Anyway?",
+      "code": "S72571"
+    }
+  ],
+  "Robotics & Autonomous Systems": [
+    {
+      "title": "A New Era of Generalist Robotics: The Rise of Humanoids",
+      "code": "S72543"
+    },
+    {
+      "title": "A New Era of Generalist Robotics: The Rise of Humanoids \u2014 Q&A From the EMEA Region",
+      "code": "S72543a"
+    },
+    {
+      "title": "AI Meets Robotics: European Startup Showcase",
+      "code": "S73752"
+    },
+    {
+      "title": "AI for Humanoid Robots",
+      "code": "S73182"
+    },
+    {
+      "title": "AI-Powered Robotics: Forging the Future of Intelligent Automation",
+      "code": "S72529"
+    },
+    {
+      "title": "Accelerate the Future of AI-Defined Vehicles and Autonomous Driving",
+      "code": "DD40000"
+    },
+    {
+      "title": "Accelerating Robust Humanoid Robot Development for any Industry",
+      "code": "CWE73360"
+    },
+    {
+      "title": "Advancing Robot Navigation With Real-Time Voice-Guided Commands and Natural Language",
+      "code": "P72385"
+    },
+    {
+      "title": "An Introduction to Building Humanoid Robots",
+      "code": "S72590"
+    },
+    {
+      "title": "Announcing Mujoco-Warp and Newton: How Google DeepMind and NVIDIA are Supercharging Robotics Development",
+      "code": "S72709"
+    },
+    {
+      "title": "Autonomous Systems and Remote Sensing for Better Earth Data",
+      "code": "S72838"
+    },
+    {
+      "title": "Bridging Innovation: The Transformative Era Before Full-Blown Humanoid Robots Emerge (Presented by MSI)",
+      "code": "S74186"
+    },
+    {
+      "title": "Build Immersive Teleoperation Systems for Robotics",
+      "code": "CWE72617"
+    },
+    {
+      "title": "Build a Co-Pilot for Industrial Process Monitoring and Quality Control",
+      "code": "DLIT72753"
+    },
+    {
+      "title": "Coordinating via Foundation Models for Heterogeneous Multi-Robot Search and Rescue",
+      "code": "S71244"
+    },
+    {
+      "title": "Edge Computing 101: Introduction to Smart Edge and Autonomous Robots",
+      "code": "S72890"
+    },
+    {
+      "title": "Edge Computing 101: Introduction to Smart Edge and Autonomous Robots: Q&A From the EMEA Region",
+      "code": "S72890a"
+    },
+    {
+      "title": "How Robotics and AI are Changing Surgery for the Better",
+      "code": "EXS74646"
+    },
+    {
+      "title": "Igniting the Real Robot Revolution Requires Closing the \u201cData Gap\u201d",
+      "code": "S74739"
+    },
+    {
+      "title": "Improving Workforce Productivity with Humanoid Robotics (Presented by Deloitte)",
+      "code": "S72001"
+    },
+    {
+      "title": "Intelligent Industrial Robotics: From Simulation to Robot Low-Code Deployment",
+      "code": "S71957"
+    },
+    {
+      "title": "Introduction to Autonomous Vehicles",
+      "code": "S72857"
+    },
+    {
+      "title": "Learn OpenUSD: Robotics Best Practices",
+      "code": "DLIT71288"
+    },
+    {
+      "title": "Leveraging Large Model-Based Embodied Intelligence to Enhance Financial Service Robots",
+      "code": "S71267"
+    },
+    {
+      "title": "Navigating the High-Stakes Safety Challenges of Autonomous Driving",
+      "code": "S73122"
+    },
+    {
+      "title": "Revolutionizing Mobility through Edge AI: Train as a Robot",
+      "code": "S72653"
+    },
+    {
+      "title": "The Promise of Humanoid Robots: Research vs. the Real World",
+      "code": "S72592"
+    },
+    {
+      "title": "Unfolding Humanoids Safety",
+      "code": "CWE72631"
+    },
+    {
+      "title": "Watch Party: A New Era of Generalist Robotics: The Rise of Humanoids",
+      "code": "WP72543"
+    },
+    {
+      "title": "Watch Party: AI for Humanoid Robots",
+      "code": "WP73182"
+    },
+    {
+      "title": "Watch Party: Accelerate the Future of AI-Defined Vehicles and Autonomous Driving",
+      "code": "WP40000"
+    },
+    {
+      "title": "Watch Party: An Introduction to Building Humanoid Robots",
+      "code": "WP72590"
+    }
+  ],
+  "Data Science & Analytics": [
+    {
+      "title": "ACGT: Blazing Fast Bits-to-Bases",
+      "code": "P74492"
+    },
+    {
+      "title": "Better Bioimaging Analytics for Better Medicines",
+      "code": "P74309"
+    },
+    {
+      "title": "Bring Accelerated Computing to Data Science in Python",
+      "code": "DLIT73877"
+    },
+    {
+      "title": "Exhibit Hall Reception",
+      "code": "N74789"
+    },
+    {
+      "title": "Exhibit Hall Reception",
+      "code": "N74790"
+    },
+    {
+      "title": "Exhibit Hall Reception",
+      "code": "N74791"
+    },
+    {
+      "title": "Fundamentals of Accelerated Data Science",
+      "code": "DLIW73632"
+    },
+    {
+      "title": "Fundamentals of Accelerated Data Science",
+      "code": "DLIW73639"
+    },
+    {
+      "title": "GPU Databases: The New Modality of Database Analytics",
+      "code": "P74548"
+    },
+    {
+      "title": "Generative Approaches for Designing Bi-Functional Bioactive Small Molecules",
+      "code": "P71388"
+    },
+    {
+      "title": "Generative High-Content Imaging: Diffusion Models Meet Bioactivity Data",
+      "code": "P74303"
+    },
+    {
+      "title": "Harmonize AI in Financial Services: Insights From BNP Paribas' Data Science Office (Presented by Domino Data Lab)",
+      "code": "S74467"
+    },
+    {
+      "title": "The Big Data Challenge of Radio Astronomy",
+      "code": "S72826"
+    },
+    {
+      "title": "The Big Data Challenge of Radio Astronomy: Q&A From the EMEA Region",
+      "code": "S72826a"
+    },
+    {
+      "title": "The embodied end-to-end VLA model driven by synthetic big data \u5408\u6210\u5927\u6570\u636e\u9a71\u52a8\u7684\u5177\u8eab\u7aef\u5230\u7aef VLA \u5927\u6a21\u578b",
+      "code": "S71942"
+    },
+    {
+      "title": "Toward Database-Free Text-to-SQL Evaluation: A Graph-Based Metric for Functional Correctness",
+      "code": "P72633"
+    },
+    {
+      "title": "Turbocharge Prescriptive Analytics and Optimization With GPU Acceleration",
+      "code": "S72603"
+    }
+  ],
+  "Research & Innovation": [
+    {
+      "title": "AI Frontiers: Shaping the Future of Our Communities",
+      "code": "SE75028"
+    },
+    {
+      "title": "AI-Accelerated Materials Discovery for Next-Generation Lithium Metal Batteries",
+      "code": "S72864"
+    },
+    {
+      "title": "AI-Driven Paradigms in Therapeutic Design for Drug Discovery",
+      "code": "S72079"
+    },
+    {
+      "title": "Accelerate AI Innovation and Broaden Access to Resources Through the National AI Research Resource (NAIRR) Pilot",
+      "code": "S72517"
+    },
+    {
+      "title": "Advance Research and Clinical Workflows With an AI Factory for Medical Imaging",
+      "code": "CWE71523"
+    },
+    {
+      "title": "Advances on Decision Optimization",
+      "code": "S72290"
+    },
+    {
+      "title": "Bending Scaling Laws with Brighter Algorithms",
+      "code": "S73204"
+    },
+    {
+      "title": "Bridging Sim-to-Real With Robot Learning Tools and Techniques",
+      "code": "CWE73364"
+    },
+    {
+      "title": "Build a Next-Generation Generative Recommendation Engine Based on Torch",
+      "code": "P74367"
+    },
+    {
+      "title": "Empowering Innovation: Startups Enabling Scientific Breakthroughs",
+      "code": "S73885"
+    },
+    {
+      "title": "Enhanced Lateral Movement Detection With NVIDIA NIM and NeMo",
+      "code": "S71515"
+    },
+    {
+      "title": "Experiments With Volumetric Video Technologies",
+      "code": "D7006"
+    },
+    {
+      "title": "Federated Computing in the Real World: From Drug Discovery to Fraud Detection",
+      "code": "P73585"
+    },
+    {
+      "title": "From Lab to Market: How Poland\u2019s Research-Startup Ecosystem Drives AI Innovation",
+      "code": "S74537"
+    },
+    {
+      "title": "From NeRF to 3DGS: Exploring Advanced Methods for High-Quality Static and Dynamic Scene Reconstruction in Interactive 3D Worlds",
+      "code": "DLIT71553"
+    },
+    {
+      "title": "From Products to Waste: Novel Backward Generation of Waste Datasets",
+      "code": "P73482"
+    },
+    {
+      "title": "Future of Scaling Law \u2013 Computational Challenges and Infrastructure Innovation (Presented by Aivres)",
+      "code": "S74275"
+    },
+    {
+      "title": "How Amgen Leverages NVIDIA DGX Cloud on AWS and Amazon EC2 Instances for Drug Discovery and Research (Presented by Amazon Web Services)",
+      "code": "S74271"
+    },
+    {
+      "title": "How Predictive Intelligence is Driving the Future of Marketing",
+      "code": "S73878"
+    },
+    {
+      "title": "Insights From NVIDIA Research",
+      "code": "S73202"
+    },
+    {
+      "title": "Insights From NVIDIA's Kaggle Grandmasters: Winning Techniques for World-Class Model Building",
+      "code": "CWE73747"
+    },
+    {
+      "title": "Lighting the Future: GPU Drives Breakthroughs in Photonic Simulations",
+      "code": "P73435"
+    },
+    {
+      "title": "Pioneering AI in Higher Education: Accessible Learning and Future-Proofing Universities",
+      "code": "S73443"
+    },
+    {
+      "title": "Pioneering Construction Innovation with Omniverse",
+      "code": "S73809"
+    },
+    {
+      "title": "Pioneering the Future of CPG with Digital Twins",
+      "code": "S72856"
+    },
+    {
+      "title": "Pioneering the Future of Radar Systems and Wireless Communications Optimization With Synthetic Data on Demand (Ansys Perceive EM + NVIDIA Omniverse)",
+      "code": "P72713"
+    },
+    {
+      "title": "RA-Agent: A Human-Centered LLM-Based Agent for Enhanced Academic Research Support",
+      "code": "P73526"
+    },
+    {
+      "title": "Reliable Radiographic Skeletal Muscle Area Assessment: A Biomarker for Cancer Cachexia Diagnosis",
+      "code": "P73592"
+    },
+    {
+      "title": "Standardized Isaac Benchmark Tool for Embodied AI Research",
+      "code": "P74364"
+    },
+    {
+      "title": "Streamline Drug Discovery With NVIDIA BioNeMo NIMs and Blueprints",
+      "code": "DLIT73950"
+    },
+    {
+      "title": "The 2%: Investing in Women-Led Innovation",
+      "code": "SE72610"
+    },
+    {
+      "title": "Transform Natural Catastrophe Risk Simulations With Advanced Computational Tools",
+      "code": "S72833"
+    },
+    {
+      "title": "University Leaders Driving the Future: AI Partnerships Transforming Education and Innovation",
+      "code": "SE74553"
+    }
+  ],
+  "Digital Twins & Simulation": [
+    {
+      "title": "AI-Driven Digital Twins: Real-Time Physics and Accelerated Simulation Using NVIDIA Technologies",
+      "code": "S73028"
+    },
+    {
+      "title": "Better Virtual Prototyping: Using Global Illumination to Enhance VR Simulations",
+      "code": "S72083"
+    },
+    {
+      "title": "Build Physics-Based Digital Twins for Co-Simulation (Presented by SoftServe)",
+      "code": "S71963"
+    },
+    {
+      "title": "Exploring Factory-Scale Digital Twin Simulation",
+      "code": "S73069"
+    },
+    {
+      "title": "Generate Photorealistic Synthetic Data to Enhance AI Models with NVIDIA Omniverse Replicator",
+      "code": "P74395"
+    },
+    {
+      "title": "Omniverse-based Digital Twin for Delta Smart Manufacturing (Presented by Delta Electronics)",
+      "code": "S73976"
+    },
+    {
+      "title": "Omniverse\u3068OpenUSD\u3067\u5b9f\u73fe\u3059\u308b\u6b21\u4e16\u4ee3\u30d0\u30fc\u30c1\u30e3\u30eb\u30d5\u30a1\u30af\u30c8\u30ea\u30fc\u306e\u5275\u308a\u65b9",
+      "code": "S73886"
+    },
+    {
+      "title": "OpenUSD Best Practices for Developing with NVIDIA Omniverse",
+      "code": "CWE73248"
+    },
+    {
+      "title": "Preserving a Medieval Tower in Italy Using a Digital Twin Built With NVIDIA Omniverse",
+      "code": "S72962"
+    },
+    {
+      "title": "Real-Time Physical Digital Twins: Leveraging GPU Ports and Omniverse for CAE and Simulation Workflows (Presented by Ansys)",
+      "code": "S74599"
+    },
+    {
+      "title": "Scaling Coca-Cola's Content Creation with OpenUSD and NVIDIA Omniverse",
+      "code": "S73123"
+    },
+    {
+      "title": "Transforming Reality: From Scan to Stunning With Hexagon and NVIDIA Omniverse (Presented by Hexagon)",
+      "code": "EXS74605"
+    },
+    {
+      "title": "Using NVIDIA Omniverse To Support Space Mission Design: Simulation First",
+      "code": "S71724"
+    }
+  ],
+  "Miscellaneous & Other Topics": [
+    {
+      "title": "Accelerate Computational Lithography for Optical Proximity Correction",
+      "code": "S71759"
+    },
+    {
+      "title": "Accelerate R&D in Quantum Computing",
+      "code": "S73197"
+    },
+    {
+      "title": "Accelerated Python: The Community and Ecosystem",
+      "code": "S72450"
+    },
+    {
+      "title": "Accelerating Portfolio Optimization",
+      "code": "DLIT71690"
+    },
+    {
+      "title": "Accelerating Quantum Computing",
+      "code": "CWE71500"
+    },
+    {
+      "title": "An Introduction to OpenUSD",
+      "code": "S72488"
+    },
+    {
+      "title": "Anonymized Network Sensing Graph Challenge",
+      "code": "S72825"
+    },
+    {
+      "title": "Distributed and Differentiable Fluid Dynamics with Accelerated Python",
+      "code": "S72057"
+    },
+    {
+      "title": "Enhance Short-Dated IV Curve Calibration With Spot Volatility Estimation",
+      "code": "P74372"
+    },
+    {
+      "title": "Exploring NVIDIA\u2019s Strategy for AV Safety",
+      "code": "CWE74730"
+    },
+    {
+      "title": "Extending PCIe/CXL by Using Active Electrical Cables (Presented by Credo)",
+      "code": "EXS74602"
+    },
+    {
+      "title": "FlashAttention-3: Fast and Accurate Attention With Asynchrony and Low Precision",
+      "code": "S71368"
+    },
+    {
+      "title": "For What the Bell Tolls",
+      "code": "S74524"
+    },
+    {
+      "title": "GLake\uff1a\u5927\u6a21\u578b\u8bad\u7ec3\u548c\u63a8\u7406\u7684\u663e\u5b58\u4f18\u5316\u63a2\u7d22",
+      "code": "S72443"
+    },
+    {
+      "title": "GTC 2025 Keynote",
+      "code": "S72484"
+    },
+    {
+      "title": "Get NVIDIA Certified",
+      "code": "C74437"
+    },
+    {
+      "title": "Get NVIDIA Certified",
+      "code": "C74547"
+    },
+    {
+      "title": "Get Ready for NVIDIA Certification",
+      "code": "C73836"
+    },
+    {
+      "title": "Get Ready for NVIDIA Certification",
+      "code": "C74436"
+    },
+    {
+      "title": "Global Atmospheric Downscaling by Improving CorrDiff Process",
+      "code": "P73554"
+    },
+    {
+      "title": "Human Body Movement Notation as Tool for Social Communication",
+      "code": "P73277"
+    },
+    {
+      "title": "Interactive Environment Designer",
+      "code": "D7002"
+    },
+    {
+      "title": "Introduction to NVIDIA Halos \u2013 Strategy for AV Safety",
+      "code": "S74743"
+    },
+    {
+      "title": "Live at NVIDIA GTC With Acquired",
+      "code": "SE75924"
+    },
+    {
+      "title": "NVIDIA NIM/Blueprint\u3092\u6d3b\u7528\u3057\u305f\u30d3\u30b8\u30cd\u30b9\u5909\u9769",
+      "code": "S73911"
+    },
+    {
+      "title": "NVIDIA \u9769\u65b0\u667a\u80fd\u5ea7\u8231\u6280\u672f\u53d1\u5c55",
+      "code": "S74413"
+    },
+    {
+      "title": "NVIDIA \u5168\u9762\u8d4b\u80fd\u7aef\u5230\u7aef\u81ea\u52a8\u9a7e\u9a76",
+      "code": "S74412"
+    },
+    {
+      "title": "Poster Reception",
+      "code": "N74787"
+    },
+    {
+      "title": "Rise of the Decentralized Cloud: Solving Societal Problems at Scale (Presented by Akash Network)",
+      "code": "EXS74351"
+    },
+    {
+      "title": "Secure Your Data and Model IP While Improving Productivity",
+      "code": "S72775"
+    },
+    {
+      "title": "Spatio-Temporal Predictive System Monitoring of AVs Using Graph Attention Networks",
+      "code": "P73502"
+    },
+    {
+      "title": "The Next Generation of C-Level Leaders",
+      "code": "SE73734"
+    },
+    {
+      "title": "UFO-Lite: \u57fa\u4e8e\u81ea\u63a8\u6d4b\u89e3\u7801\u7684\u4f4e\u5ef6\u8fdf\u591a\u6a21\u6001\u5927\u6a21\u578b",
+      "code": "S72498"
+    },
+    {
+      "title": "Unlock the Potential of Unstructured Data",
+      "code": "S72223"
+    },
+    {
+      "title": "Using Immersive Design Collaboration to Improve Efficiency in AECO",
+      "code": "S71927"
+    },
+    {
+      "title": "Using cuDNN for DL Optimizations",
+      "code": "CWE71222"
+    },
+    {
+      "title": "VLA\uff1a\u8fc8\u5411\u81ea\u52a8\u9a7e\u9a76\u7269\u7406\u667a\u80fd\u4f53\u7684\u5173\u952e\u4e00\u6b65",
+      "code": "S72557"
+    },
+    {
+      "title": "Virtual Athlete",
+      "code": "D7004"
+    },
+    {
+      "title": "Vista: The Bridge to a New Era of HPC",
+      "code": "S72518"
+    },
+    {
+      "title": "\u4f7f\u7528 NVIDIA \u673a\u5668\u4eba\u89e3\u51b3\u65b9\u6848\u52a0\u901f\u7aef\u5230\u7aef\u65e0\u5e8f\u6293\u53d6\u7684\u5f00\u53d1",
+      "code": "S72427"
+    },
+    {
+      "title": "\u4f7f\u7528 Optix 7 \u6784\u5efa\u5206\u5e03\u5f0f\u5149\u7ebf\u70d8\u7119\u7cfb\u7edf",
+      "code": "S72652"
+    },
+    {
+      "title": "\u6784\u5efa\u4ee5 Megatron-Core \u4e3a\u6838\u5fc3\u7684\u5927\u8bed\u8a00\u6a21\u578b\u8bad\u7ec3\u52a0\u901f\u751f\u6001",
+      "code": "S72580"
+    },
+    {
+      "title": "\u4ece\u667a\u80fd\u9a7e\u9a76\u5230 AGI\uff1a\u4e0b\u4e00\u4ee3\u81ea\u52a8\u9a7e\u9a76\u6280\u672f\u7684\u6f14\u8fdb",
+      "code": "S74501"
+    },
+    {
+      "title": "\u7aef\u5230\u7aef\u5168\u573a\u666f\u667a\u80fd\u9a7e\u9a76",
+      "code": "S74366"
+    },
+    {
+      "title": "\u5927\u8bed\u8a00\u6a21\u578b\u5728\u667a\u80fd\u5ea7\u8231\u4e2d\u7684\u5e94\u7528",
+      "code": "S72716"
+    },
+    {
+      "title": "\u3053\u308c\u304b\u3089\u306e\u5de5\u5834\u30d7\u30e9\u30f3\u30cb\u30f3\u30b0\u3068Isaac Perceptor\u642d\u8f09\u306eAMR\u4f8b",
+      "code": "S73883"
+    },
+    {
+      "title": "\u57fa\u4e8e\u7aef\u5230\u7aef\u4e16\u754c\u6a21\u578b\u7684\u751f\u6210\u5f0f\u667a\u9a7e\u4f53\u9a8c",
+      "code": "S74438"
+    },
+    {
+      "title": "\u30c7\u30fc\u30bf\u99c6\u52d5\u578b\u5275\u85ac\u30fb\u3053\u308c\u307e\u3067\u3068\u3053\u308c\u304b\u3089",
+      "code": "S73893"
+    },
+    {
+      "title": "\u6784\u5efa\u9762\u5411\u5fae\u5c3a\u5ea6\u5efa\u6a21\u548c\u8bbe\u8ba1\u9700\u6c42\u7684\u5927\u539f\u5b50\u6a21\u578b\u751f\u6001",
+      "code": "S71873"
+    },
+    {
+      "title": "\u4e0b\u4e00\u4ee3\u751f\u6210\u5f0f\u63a8\u8350\u6a21\u578b\u8bad\u63a8\u5f15\u64ce\u7684\u5efa\u8bbe\u548c\u843d\u5730\u5b9e\u8df5",
+      "code": "S74073"
+    },
+    {
+      "title": "\u5e94\u7528\u4e8e\u6c7d\u8f66\u884c\u4e1a\u804a\u5929\u673a\u5668\u4eba\u7684\u591a\u6a21\u6001\u68c0\u7d22\u589e\u5f3a\u751f\u6210\u65b9\u6848",
+      "code": "S72500"
+    },
+    {
+      "title": "\u9762\u5411\u6d77\u91cf\u6a21\u578b\u4e1a\u52a1\u573a\u666f\u7684\u6587\u751f\u56fe\u9ad8\u6548\u63a8\u7406\u52a0\u901f\u89e3\u51b3\u65b9\u6848",
+      "code": "S72639"
+    },
+    {
+      "title": "\u6b21\u4e16\u4ee3\u306e\u30ed\u30dc\u30c3\u30c8\u57fa\u76e4\u30e2\u30c7\u30eb\u306e\u5c55\u671b\u3068\u305d\u306e\u5fdc\u7528\u53ef\u80fd\u6027",
+      "code": "S73868"
+    },
+    {
+      "title": "\u6fc0\u53d1\u901a\u7528\u4eba\u5de5\u667a\u80fd\u7684\u521b\u9020\u529b\uff0c\u5f15\u9886\u667a\u80fd\u6c7d\u8f66\u8d70\u5411\u65b0\u7684\u672a\u6765",
+      "code": "S72635"
+    },
+    {
+      "title": "\u5b9f\u884c\u6642\u30b3\u30f3\u30d1\u30a4\u30eb\u6280\u8853\u306b\u3088\u308a\u30d7\u30ed\u30b0\u30e9\u30e0\u66f8\u304d\u63db\u3048\u7121\u3057\u306bpandas\u51e6\u7406\u3092100\u500d\u4ee5\u4e0a\u9ad8\u901f\u5316",
+      "code": "S73843"
+    },
+    {
+      "title": "\u5927\u898f\u6a21\u8a00\u8a9e\u30e2\u30c7\u30eb\u5b66\u7fd2\u30b9\u30b1\u30fc\u30eb\u306e\u305f\u3081\u306e\u30c6\u30ec\u30b3\u30e0\u30e6\u30fc\u30b9\u30b1\u30fc\u30b9",
+      "code": "S71554"
+    }
+  ]
+}

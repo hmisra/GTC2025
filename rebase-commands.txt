@@ -1,0 +1,2 @@
+reword d8d4e61 [Cursor] Remove temporary commit message file
+reword 8355de9 [Cursor] Refactor project structure and enhance GTC 2025 analysis 
