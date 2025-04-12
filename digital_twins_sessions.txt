@@ -1,0 +1,48 @@
+Digital Twin Sessions from GTC 2025
+
+1. "Accelerating Insights and Efficiencies in Automotive Manufacturing using Immersive Digital Twins" [S73011]
+2. "Advancing Automotive Factory Planning at BMW With AI-Enabled Digital Twins" [S71550]
+3. "AI-Driven Digital Twins: Real-Time Physics and Accelerated Simulation Using NVIDIA Technologies" [S73028]
+4. "Building Industrial Digital Twins for the Era of Physical AI" [CWE73271]
+5. "Creating a Digital Twin of the French Railway: From Point Cloud to Operational Efficiency" [S71822]
+6. "Digital Twins to Human-Centric Knowledge: An Integrated System for Manufacturing Expertise" [P74512]
+7. "Exploring Factory-Scale Digital Twin Simulation" [S73069]
+8. "Industrial Digital Twins for the Era of Physical AI" [CWE73271]
+9. "Manifesting Physical AI in Industrial Applications" (Presented by Hitachi Digital) [S74264]
+10. "Photo-Realistic 3D Digital Twin to Enhance Understanding of the Great Barrier Reef" [P73521]
+11. "Photorealistic Digital Twin at Scale in Product Design" [S73051]
+12. "Pioneering Construction Innovation with Omniverse" [S73809]
+13. "Pioneering the Future of CPG with Digital Twins" [S72856]
+14. "Preserving a Medieval Tower in Italy Using a Digital Twin Built With NVIDIA Omniverse" [S72962]
+15. "Real-Time Physical Digital Twins: Leveraging GPU Ports and Omniverse for CAE and Simulation Workflows" (Presented by Ansys) [S74599]
+16. "Refreshing Manufacturing Operations at Coca-Cola Consolidated With Digital Twins" [S73008]
+17. "Reimagine Customer Service With Agentic AI" (Presented by Wipro Limited) [EXS74503]
+18. "Reimagining Business Processes for Manufacturers with AI-Powered Digital Twins" [S71662]
+19. "Reinvent Warehouses and Distribution Centers With AI-Powered Digital Twins" (Presented by Accenture) [S74342]
+20. "Revolutionizing Merchandising With Digital Twin Tools: Enhancing Retail Strategy and Visualization at Lowe's" [S72069]
+21. "Scaling Coca-Cola's Content Creation with OpenUSD and NVIDIA Omniverse" [S73123]
+22. "Transforming Complex Value Chains with Generative AI & Digital Twins" [S72390]
+23. "Transforming Reality: From Scan to Stunning With Hexagon and NVIDIA Omniverse" (Presented by Hexagon) [EXS74605]
+24. "Visualizing California's Infrastructure with Caltrans' State-Scale Digital Twins" [S72968]
+
+Applications and Industries:
+- Manufacturing and factory planning
+- Automotive industry
+- Construction and infrastructure
+- Retail and merchandising
+- Logistics and warehousing
+- Consumer packaged goods
+- Healthcare and medical applications
+- Environmental monitoring
+- Cultural heritage preservation
+
+Business Benefits:
+- Process optimization
+- Real-time simulation and monitoring
+- Predictive maintenance
+- Training and education
+- Design and visualization
+- Quality control
+- Resource management
+- Business process improvement
+- Customer experience enhancement 
